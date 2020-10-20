@@ -100,7 +100,7 @@ class Trip:
     def plot(self):
 
         threshold = 1
-        bias = np.median(df_trip.pressure.values)
+        bias = np.median(self.df.pressure.values)
 
         plt.figure(figsize=(15, 3))
 
