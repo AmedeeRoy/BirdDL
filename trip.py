@@ -125,13 +125,18 @@ class Trip:
         # matrix of distance
         self.dist_matrix = np.zeros((len(self.df), len(self.df)))
 
-        for i in range(len(self.df)):
-            lon1 = self.df.lon[[i for j in range(len(self.df))]]
-            lat1 = self.df.lat[[i for j in range(len(self.df))]]
-            lon2 = self.df.lon[[j for j in range(len(self.df))]]
-            lat2 = self.df.lat[[j for j in range(len(self.df))]]
+        # lon = np.vstack([df.lon.values for i in range(len(df))])
+        # lat = np.vstack([df.lat.values for i in range(len(df))])
+        # dd = dist_ortho(lon, lat, lon.T, lat.T)
 
-            self.dist_matrix[i, :] = dist_ortho(lon1.values, lat1.values, lon2.values, lat2.values)
+        for i in range(len(self.df)):
+            lon1 = self.df.lon[i] * np.ones(len(self.df) - i)
+            lat1 = self.df.lat[i] * np.ones(len(self.df) - i)
+            lon2 = self.df.lon[np.arange(i, len(self.df))].values
+            lat2 = self.df.lat[np.arange(i, len(self.df))].values
+
+            dd = dist_ortho(lon1, lat1, lon2, lat2)
+            self.dist_matrix[i, i:], self.dist_matrix[i:, i] = dd, dd
 
             if verbose:
                 IPython.display.clear_output(wait=True)
