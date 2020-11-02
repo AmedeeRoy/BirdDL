@@ -42,6 +42,7 @@ zeroMass <- length(which(birdData$step == 0))/nrow(birdData) #we need to include
 stateNames <- c("fly","observe", "dive")
 dist = list(step = "gamma", angle = "vm")
 anglePar0 <- c(kappaA_1, kappaA_2, kappaA_3) 
+stepPar0 <- c(muS_1, muS_2, muS_3, sdS_1, sdS_2, sdS_3, zeroMass, zeroMass, zeroMass) 
 m <- fitHMM(data = birdData, nbStates = 3, dist = dist, Par0 = list(step = stepPar0, angle = anglePar0), stateNames = stateNames, formula = ~1)
 
 for (trip in unique(rawData$ID)){
