@@ -178,6 +178,30 @@ class Trip:
 import torch
 from torch.utils.data import Dataset
 
+def standardize(var):
+    var = np.array(var)
+    return (var-np.mean(var))/np.std(var)
+
+def standardize_minmax(var):
+    var = np.array(var)
+    return (var-np.min(var))/(np.max(var) - np.min(var))
+
+def standardize_data(data):
+    data = data.copy()
+    data = data.dropna()
+    data['lon_std'] = 0
+    data['lat_std'] = 0
+    data['step_speed_std'] = 0
+    data['step_direction_cos'] = 0
+    data['step_direction_sin'] = 0
+    for trip in data.trip.unique():
+        data.loc[data.trip == trip,'lon_std'] = standardize(data.loc[data.trip == trip,'lon'])
+        data.loc[data.trip == trip, 'lat_std'] = standardize(data.loc[data.trip == trip,'lat'])
+        data.loc[data.trip == trip,'step_speed_std'] = standardize_minmax(data.loc[data.trip == trip,'step_speed'])
+        data.loc[data.trip == trip,'step_direction_cos'] = np.cos(data.loc[data.trip == trip,'step_direction']* np.pi/180)
+        data.loc[data.trip == trip,'step_direction_sin'] = np.sin(data.loc[data.trip == trip,'step_direction']* np.pi/180)
+    return data
+
 def change_resolution(data, resolution):
     data_new = pd.DataFrame()
     for i in data.trip.unique():
@@ -211,11 +235,14 @@ class TrajDataSet(Dataset):
         traj = self.df.loc[i:i+self.window-1, self.var]
         traj = np.array(traj).T
 
+        lon = np.vstack([traj[0] for i in range(traj.shape[1])])
+        lat = np.vstack([traj[1]  for i in range(traj.shape[1])])
+        dd = dist_ortho(lon, lat, lon.T, lat.T)
 
         dive = self.df.loc[i:i+self.window-1, 'dive']
         dive = np.array(dive)
 
-        sample = (traj, dive)
+        sample = (traj, dd, dive)
 
         if self.transform:
             sample = self.transform(sample)
@@ -228,7 +255,7 @@ class Rescale(object):
         self.method = method
 
     def __call__(self, sample):
-        traj, dive = sample
+        traj, dd, dive = sample
 
         # change resolution
         if self.method == 'max':
@@ -237,23 +264,13 @@ class Rescale(object):
         if self.method == 'mean':
             dive_new = [np.mean(dive[i:i+self.ratio+1]) for i in range(len(dive)) if i%self.ratio==0]
 
-        return (traj, dive_new)
-
-class DistMatrix(object):
-    """Convert ndarrays in sample to Tensors."""
-    def __call__(self, sample):
-        traj, dive = sample
-        lon = np.vstack([traj[0] for i in range(traj.shape[1])])
-        lat = np.vstack([traj[1]  for i in range(traj.shape[1])])
-        dd = dist_ortho(lon, lat, lon.T, lat.T)
-
-        return (dd/1000, dive)
+        return (traj, dd, dive_new)
 
 
 class ToTensor(object):
     """Convert ndarrays in sample to Tensors."""
 
     def __call__(self, sample):
-        traj, dive = sample
-        traj, dive = (torch.FloatTensor(traj), torch.FloatTensor(dive))
-        return (traj.unsqueeze(0), dive.unsqueeze(0))
+        traj, dd, dive = sample
+        traj, dd, dive = (torch.FloatTensor(traj), torch.FloatTensor(dd), torch.FloatTensor(dive))
+        return (traj.unsqueeze(0), dd.unsqueeze(0),  dive.unsqueeze(0))
