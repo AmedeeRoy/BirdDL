@@ -213,6 +213,14 @@ def change_resolution(data, resolution):
 
         traj['dive'] = [np.max(t.dive[i:i+resolution]) for i in range(len(t)) if i%resolution==0]
 
+        n = len(traj)
+        step = dist_ortho( traj.lon.values[0:(n-1)], traj.lat.values[0:(n-1)], traj.lon.values[1:n], traj.lat.values[1:n])
+        c = cap( traj.lon.values[0:(n-1)], traj.lat.values[0:(n-1)], traj.lon.values[1:n], traj.lat.values[1:n])
+        direction = [d%360 - 360 if d%360 > 180 else d%360 for d in np.diff(c)]
+
+        traj['step_speed'] = np.append(np.nan, step/resolution)
+        traj['step_direction'] = np.append([np.nan, np.nan], direction)
+
         data_new = data_new.append(traj, ignore_index=True)
     return data_new
 
@@ -232,11 +240,15 @@ class TrajDataSet(Dataset):
 
         i = self.start_idx[idx]
 
+        # select variable of interest
         traj = self.df.loc[i:i+self.window-1, self.var]
         traj = np.array(traj).T
 
-        lon = np.vstack([traj[0] for i in range(traj.shape[1])])
-        lat = np.vstack([traj[1]  for i in range(traj.shape[1])])
+        # select coordinates
+        coord = self.df.loc[i:i+self.window-1, ('lon', 'lat')]
+        coord = np.array(coord).T
+        lon = np.vstack([coord[0] for i in range(traj.shape[1])])
+        lat = np.vstack([coord[1]  for i in range(traj.shape[1])])
         dd = dist_ortho(lon, lat, lon.T, lat.T)
 
         dive = self.df.loc[i:i+self.window-1, 'dive']
