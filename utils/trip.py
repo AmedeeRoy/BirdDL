@@ -178,6 +178,21 @@ class Trip:
 import torch
 from torch.utils.data import Dataset
 
+def change_resolution(data, resolution):
+    data_new = pd.DataFrame()
+    for i in data.trip.unique():
+        t = data[data.trip == i].copy()
+
+        idx = [i%resolution == 0 for i in range(len(t))]
+
+        traj = t.loc[idx, ('trip', 'datetime', 'lon', 'lat')]
+
+        traj['dive'] = [np.max(t.dive[i:i+resolution]) for i in range(len(t)) if i%resolution==0]
+
+        data_new = data_new.append(traj, ignore_index=True)
+    return data_new
+
+
 class TrajDataSet(Dataset):
     def __init__(self,  df, window, variable, transform=None):
         self.df = df.set_index(np.arange(len(df))) #reorder idx
