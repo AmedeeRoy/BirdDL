@@ -211,6 +211,7 @@ def change_resolution(data, resolution):
 
         traj = t.loc[idx, ('trip', 'datetime', 'lon', 'lat')]
 
+        traj['gaps'] = [np.mean(1*t.gaps[i:i+resolution]) for i in range(len(t)) if i%resolution==0]
         traj['dive'] = [np.max(t.dive[i:i+resolution]) for i in range(len(t)) if i%resolution==0]
 
         n = len(traj)
@@ -278,6 +279,13 @@ class Rescale(object):
 
         return (traj, dd, dive_new)
 
+class Center(object):
+    def __call__(self, sample):
+        traj, dd, dive = sample
+        window = len(dive)
+        dive_new = dive[int(window/2)]
+
+        return (traj, dd, np.array([dive_new]))
 
 class ToTensor(object):
     """Convert ndarrays in sample to Tensors."""
