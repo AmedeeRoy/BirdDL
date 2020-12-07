@@ -120,16 +120,17 @@ class Trip:
         plt.subplot(1, 3, 1)
         plt.plot(self.df.datetime.values, self.df.pressure.values)
         plt.plot(self.df.datetime.values, [self.threshold+bias for i in range(len(self.df))], color = 'orange')
+        plt.scatter(self.df.datetime.values[self.df.dive > 0], self.df.pressure.values[self.df.dive > 0], color = 'orange')
 
         plt.subplot(1, 3, 2)
         plt.plot(self.df.lon.values, self.df.lat.values)
-        plt.scatter(self.df.lon.values[self.df.pressure-bias > self.threshold], \
-                    self.df.lat.values[self.df.pressure-bias > self.threshold], c = 'orange')
+        plt.scatter(self.df.lon.values[self.df.dive > 0], \
+                    self.df.lat.values[self.df.dive > 0], c = 'orange')
 
         plt.subplot(1, 3, 3)
         plt.scatter(self.df.step_direction, self.df.step_speed, alpha = 0.3)
-        plt.scatter(self.df.step_direction.values[self.df.pressure-bias > self.threshold],
-                    self.df.step_speed[self.df.pressure-bias > self.threshold], c = 'orange')
+        plt.scatter(self.df.step_direction.values[self.df.dive > 0],
+                    self.df.step_speed[self.df.dive > 0], c = 'orange')
 
         if save is not None:
             plt.savefig(save)
