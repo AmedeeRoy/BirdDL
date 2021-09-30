@@ -1,0 +1,11 @@
+Dear Editor,
+We are happy to present our draft of a research article so-called "Deep learning and trajectory representation for the prediction of seabird diving behaviour"
+
+With technological advances in sensor technology, ecologists are able to collect larger amount of data than ever before. In particular, GPS are used to record high-resolution animal trajectories, and this makes more critical the need of new tools to analyze such trajectory data. This study provides insight on the use of deep learning tools for predicting animal behaviour from trajectory data. 
+
+Indeed, in this study we predicted dives in seabird from GPS data using deep learning. We evaluated prediction accuracy of different networks architecture and of other state-of-the-art approaches. We demonstrated that deep learning allows better dive prediction than usual methods, and our main contribution is to show the importance of trajectory representation for classification tasks. The use of distance matrix to represent trajectory data has considerably increased the ability of deep networks to infer behaviours, and their stability to different data inputs. 
+
+Such results at the interface of movement ecology and artificial intelligence could benefit to numerous ecologists dealing with trajectory data. Thus, we think that our work fits the aim of Journal of the Royal Society Interface.
+
+Thank you for your consideration,
+Amédée Roy et al.

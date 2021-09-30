@@ -1,0 +1,17 @@
+[0] Config.pm:302> INFO - This is Biber 2.9
+[0] Config.pm:305> INFO - Logfile is 'main.blg'
+[20] biber:313> INFO - === mer. mars  3, 2021, 08:58:18
+[34] Biber.pm:371> INFO - Reading 'main.bcf'
+[80] Biber.pm:857> INFO - Found 63 citekeys in bib section 0
+[92] Biber.pm:3981> INFO - Processing section 0
+[105] Biber.pm:4154> INFO - Looking for bibtex format file 'DeepDive.bib' for section 0
+[108] bibtex.pm:1468> INFO - LaTeX decoding ...
+[179] bibtex.pm:1294> INFO - Found BibTeX data source 'DeepDive.bib'
+[261] Utils.pm:169> WARN - ISBN '978-1-119-33022-6 978-1-84821-778-2' in entry 'monaco_bio-logging_2016' is invalid - run biber with '--validate_datamodel' for details.
+[639] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[639] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[639] Biber.pm:3809> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[639] Biber.pm:3815> INFO - No sort tailoring available for locale 'en-US'
+[687] bbl.pm:617> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[708] bbl.pm:720> INFO - Output to main.bbl
+[708] Biber.pm:110> INFO - WARNINGS: 1

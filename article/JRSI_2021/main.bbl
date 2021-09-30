@@ -1,0 +1,3048 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{ardakani_encoding_2017}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=2178dbbacec38f7331127d53f625f524}{%
+           family={Ardakani},
+           familyi={A\bibinitperiod},
+           given={Ilya\bibnamedelima S},
+           giveni={I\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=118de32a174af1c67caf48884094983f}{%
+           family={Hashimoto},
+           familyi={H\bibinitperiod},
+           given={Koichi},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Japan}%
+      }
+      \strng{namehash}{6faf5f3b5ebedc2baeb377e5f11f3f17}
+      \strng{fullhash}{6faf5f3b5ebedc2baeb377e5f11f3f17}
+      \strng{bibnamehash}{6faf5f3b5ebedc2baeb377e5f11f3f17}
+      \strng{authorbibnamehash}{6faf5f3b5ebedc2baeb377e5f11f3f17}
+      \strng{authornamehash}{6faf5f3b5ebedc2baeb377e5f11f3f17}
+      \strng{authorfullhash}{6faf5f3b5ebedc2baeb377e5f11f3f17}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of 2017 {{IEEE International Conference}} on {{Mechatronics}} and {{Automation}}}
+      \field{title}{Encoding {{Bird}}'s {{Trajectory}} Using {{Recurrent Neural Networks}}}
+      \field{year}{2017}
+      \field{pages}{6}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1109/ICMA.2017.8016063
+      \endverb
+    \endentry
+    \entry{authier_conservation_2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1688b2f726034377b13387b76e1c1cea}{%
+           family={Authier},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6e30b8c34b726651c237331f7b5bd5a3}{%
+           family={Spitz},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3a9f4c96e09c563d3b44df8605330db4}{%
+           family={Blanck},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bc7eab6c7da05c9ccc20aebb322d9994}{%
+           family={Ridoux},
+           familyi={R\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{c57b41466a64db0ef49f1962dc5af5d8}
+      \strng{fullhash}{cf235d8e30be5a84b7fa99cec4dea194}
+      \strng{bibnamehash}{c57b41466a64db0ef49f1962dc5af5d8}
+      \strng{authorbibnamehash}{c57b41466a64db0ef49f1962dc5af5d8}
+      \strng{authornamehash}{c57b41466a64db0ef49f1962dc5af5d8}
+      \strng{authorfullhash}{cf235d8e30be5a84b7fa99cec4dea194}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{09670645}
+      \field{journaltitle}{Deep Sea Research Part II: Topical Studies in Oceanography}
+      \field{shorttitle}{Conservation Science for Marine Megafauna in {{Europe}}}
+      \field{title}{Conservation Science for Marine Megafauna in {{Europe}}: {{Historical}} Perspectives and Future Directions}
+      \field{volume}{141}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.dsr2.2017.05.002
+      \endverb
+    \endentry
+    \entry{barraquand_animal_2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=62db3244bd6ebae0371b0062d0e94ff2}{%
+           family={Barraquand},
+           familyi={B\bibinitperiod},
+           given={Fre\bibnamedelimb De\bibnamedelima Ric},
+           giveni={F\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=1ee267eb7bba2d398fd8c7cebafa4ed7}{%
+           family={Benhamou},
+           familyi={B\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c15329eac8ed31bb88daadb014e4b207}
+      \strng{fullhash}{c15329eac8ed31bb88daadb014e4b207}
+      \strng{bibnamehash}{c15329eac8ed31bb88daadb014e4b207}
+      \strng{authorbibnamehash}{c15329eac8ed31bb88daadb014e4b207}
+      \strng{authornamehash}{c15329eac8ed31bb88daadb014e4b207}
+      \strng{authorfullhash}{c15329eac8ed31bb88daadb014e4b207}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ecology}
+      \field{number}{12}
+      \field{title}{Animal Movements in Heterogeneous Landscapes: Identifying Profitable Places and Homogeneous Movement Bouts}
+      \field{volume}{89}
+      \field{year}{2008}
+      \field{pages}{3336\bibrangedash 3348}
+      \range{pages}{13}
+    \endentry
+    \entry{bengio_representation_2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ccec1ccd2e1aa86960eb2e872c6b7020}{%
+           family={Courville},
+           familyi={C\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+        {{hash=da21e966c02c3cfd33d74369c7435c1a}{%
+           family={Vincent},
+           familyi={V\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{54af866264cacba174612c82da34a2d7}
+      \strng{fullhash}{54af866264cacba174612c82da34a2d7}
+      \strng{bibnamehash}{54af866264cacba174612c82da34a2d7}
+      \strng{authorbibnamehash}{54af866264cacba174612c82da34a2d7}
+      \strng{authornamehash}{54af866264cacba174612c82da34a2d7}
+      \strng{authorfullhash}{54af866264cacba174612c82da34a2d7}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{eprintclass}{cs}
+      \field{eprinttype}{arxiv}
+      \field{journaltitle}{arXiv:1206.5538 [cs]}
+      \field{shorttitle}{Representation {{Learning}}}
+      \field{title}{Representation {{Learning}}: {{A Review}} and {{New Perspectives}}}
+      \field{year}{2014}
+      \verb{eprint}
+      \verb 1206.5538
+      \endverb
+      \keyw{⛔ No DOI found,Computer Science - Machine Learning}
+    \endentry
+    \entry{beyan_setting_2020}{article}{}
+      \name{author}{2}{}{%
+        {{hash=678af43c44c8f21eadc76ca0013113e0}{%
+           family={Beyan},
+           familyi={B\bibinitperiod},
+           given={Cigdem},
+           giveni={C\bibinitperiod}}}%
+        {{hash=02fd22d416c4bacf281c32e4f1b6421b}{%
+           family={Browman},
+           familyi={B\bibinitperiod},
+           given={Howard},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{c7b42fb3bb240284b6480f272ebc7141}
+      \strng{fullhash}{c7b42fb3bb240284b6480f272ebc7141}
+      \strng{bibnamehash}{c7b42fb3bb240284b6480f272ebc7141}
+      \strng{authorbibnamehash}{c7b42fb3bb240284b6480f272ebc7141}
+      \strng{authornamehash}{c7b42fb3bb240284b6480f272ebc7141}
+      \strng{authorfullhash}{c7b42fb3bb240284b6480f272ebc7141}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ICES Journal of Marine Science}
+      \field{title}{Setting the Stage for the Machine Intelligence Era in Marine Science}
+      \field{volume}{77(4)}
+      \field{year}{2020}
+      \field{pages}{1267\bibrangedash 1273}
+      \range{pages}{7}
+      \verb{doi}
+      \verb doi:10.1093/icesjms/fsaa084
+      \endverb
+    \endentry
+    \entry{boyd_movement_2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=21f332eeb2017fdc8e5c4a9c3006b0eb}{%
+           family={Boyd},
+           familyi={B\bibinitperiod},
+           given={Charlotte},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{21f332eeb2017fdc8e5c4a9c3006b0eb}
+      \strng{fullhash}{21f332eeb2017fdc8e5c4a9c3006b0eb}
+      \strng{bibnamehash}{21f332eeb2017fdc8e5c4a9c3006b0eb}
+      \strng{authorbibnamehash}{21f332eeb2017fdc8e5c4a9c3006b0eb}
+      \strng{authornamehash}{21f332eeb2017fdc8e5c4a9c3006b0eb}
+      \strng{authorfullhash}{21f332eeb2017fdc8e5c4a9c3006b0eb}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ecological Modelling}
+      \field{title}{Movement Models Provide Insights into Variation in the Foraging Effort of Central Place Foragers}
+      \field{year}{2014}
+      \field{pages}{13}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ecolmodel.2014.03.015
+      \endverb
+    \endentry
+    \entry{browning_predicting_2018}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2e05bad55b3fd53b210f8e66a24ef659}{%
+           family={Browning},
+           familyi={B\bibinitperiod},
+           given={Ella},
+           giveni={E\bibinitperiod}}}%
+        {{hash=12cce242e538e07c47020590413383c5}{%
+           family={Bolton},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0fc615e9259a548ada8ddbb4b449679c}{%
+           family={Owen},
+           familyi={O\bibinitperiod},
+           given={Ellie},
+           giveni={E\bibinitperiod}}}%
+        {{hash=a454375d7afaf2ec78e4f4d63611f7ee}{%
+           family={Shoji},
+           familyi={S\bibinitperiod},
+           given={Akiko},
+           giveni={A\bibinitperiod}}}%
+        {{hash=09f89903ea1ec623d236e72355465218}{%
+           family={Guilford},
+           familyi={G\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+        {{hash=972cda3b2d9c9439f78c90dbac6fad84}{%
+           family={Freeman},
+           familyi={F\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=aa5e2dc90af2c3f2c00039b1ec769816}{%
+           family={McPherson},
+           familyi={M\bibinitperiod},
+           given={Jana},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb2d670c66026b035d3da209b10e676d}
+      \strng{fullhash}{26dd255b8554373d7ce0ce76fd7888e8}
+      \strng{bibnamehash}{eb2d670c66026b035d3da209b10e676d}
+      \strng{authorbibnamehash}{eb2d670c66026b035d3da209b10e676d}
+      \strng{authornamehash}{eb2d670c66026b035d3da209b10e676d}
+      \strng{authorfullhash}{26dd255b8554373d7ce0ce76fd7888e8}
+      \strng{editorbibnamehash}{aa5e2dc90af2c3f2c00039b1ec769816}
+      \strng{editornamehash}{aa5e2dc90af2c3f2c00039b1ec769816}
+      \strng{editorfullhash}{aa5e2dc90af2c3f2c00039b1ec769816}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Methods in Ecology and Evolution}
+      \field{number}{3}
+      \field{title}{Predicting Animal Behaviour Using Deep Learning: {{GPS}} Data Alone Accurately Predict Diving in Seabirds}
+      \field{volume}{9}
+      \field{year}{2018}
+      \field{pages}{681\bibrangedash 692}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1111/2041-210X.12926
+      \endverb
+    \endentry
+    \entry{carter_navigating_2016}{article}{}
+      \name{author}{5}{}{%
+        {{hash=c87806c3a944a693f097fbdd32483522}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={Matt\bibnamedelimb Ian\bibnamedelima Daniel},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=9234c3b66159130896699891487ec958}{%
+           family={Bennett},
+           familyi={B\bibinitperiod},
+           given={Kimberley\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0a4275930a0ede79fe16da2baac5b07e}{%
+           family={Embling},
+           familyi={E\bibinitperiod},
+           given={Clare\bibnamedelima B.},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=36ec8d1c12097600b81f7f33fa69712a}{%
+           family={Hosegood},
+           familyi={H\bibinitperiod},
+           given={Philip\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=c42f968acc7bf4dad0afcb80b90299b2}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Debbie\bibnamedelimb J.\bibnamedelimi F.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{531a144d2c6bebbc79d2575505ae4dc3}
+      \strng{fullhash}{49573bcba0328d065c7d7c0d5d16e87c}
+      \strng{bibnamehash}{531a144d2c6bebbc79d2575505ae4dc3}
+      \strng{authorbibnamehash}{531a144d2c6bebbc79d2575505ae4dc3}
+      \strng{authornamehash}{531a144d2c6bebbc79d2575505ae4dc3}
+      \strng{authorfullhash}{49573bcba0328d065c7d7c0d5d16e87c}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Movement Ecology}
+      \field{number}{1}
+      \field{title}{Navigating Uncertain Waters: A Critical Review of Inferring Foraging Behaviour from Location and Dive Data in Pinnipeds}
+      \field{volume}{4}
+      \field{year}{2016}
+      \field{pages}{25}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s40462-016-0090-9
+      \endverb
+    \endentry
+    \entry{christin_applications_2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=cd924f887ac71b2964943a571b6a24f5}{%
+           family={Christin},
+           familyi={C\bibinitperiod},
+           given={Sylvain},
+           giveni={S\bibinitperiod}}}%
+        {{hash=113655b74507759ef320adaab553b0fc}{%
+           family={Hervet},
+           familyi={H\bibinitperiod},
+           given={{É}ric},
+           giveni={É\bibinitperiod}}}%
+        {{hash=0cdb4181942a28c3ac4069de6f9fde82}{%
+           family={Lecomte},
+           familyi={L\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=27dfc5d4754ab8d88dfd8829759a8109}{%
+           family={Ye},
+           familyi={Y\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f658cc3282c21a66c328176a9d01a83}
+      \strng{fullhash}{7f658cc3282c21a66c328176a9d01a83}
+      \strng{bibnamehash}{7f658cc3282c21a66c328176a9d01a83}
+      \strng{authorbibnamehash}{7f658cc3282c21a66c328176a9d01a83}
+      \strng{authornamehash}{7f658cc3282c21a66c328176a9d01a83}
+      \strng{authorfullhash}{7f658cc3282c21a66c328176a9d01a83}
+      \strng{editorbibnamehash}{27dfc5d4754ab8d88dfd8829759a8109}
+      \strng{editornamehash}{27dfc5d4754ab8d88dfd8829759a8109}
+      \strng{editorfullhash}{27dfc5d4754ab8d88dfd8829759a8109}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Methods in Ecology and Evolution}
+      \field{number}{10}
+      \field{title}{Applications for Deep Learning in Ecology}
+      \field{volume}{10}
+      \field{year}{2019}
+      \field{pages}{1632\bibrangedash 1644}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1111/2041-210X.13256
+      \endverb
+    \endentry
+    \entry{cox_seabird_2016}{article}{}
+      \name{author}{9}{}{%
+        {{hash=5ba20fa00d5be969ddf69a8676cf9116}{%
+           family={Cox},
+           familyi={C\bibinitperiod},
+           given={S.\bibnamedelimi L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=25ee28f9de2304200c810cf017d5e87c}{%
+           family={Miller},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi I.},
+           giveni={P\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=f5ae02d8d504afcdf044a63249a9216c}{%
+           family={Embling},
+           familyi={E\bibinitperiod},
+           given={C.\bibnamedelimi B.},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=cc05fea4f9d87990d13fabd73e49e5db}{%
+           family={Scales},
+           familyi={S\bibinitperiod},
+           given={K.\bibnamedelimi L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=e7b1b93c0df45b0f8ef7e0d189f87e27}{%
+           family={Bicknell},
+           familyi={B\bibinitperiod},
+           given={A.\bibnamedelimi W.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b667e34246c00466fe7743a7b5195b2f}{%
+           family={Hosegood},
+           familyi={H\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=6acfe008160bd357fccf45e9c3a94ad3}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=e3e648e48d9084b27eca2f5e565b1611}{%
+           family={Ingram},
+           familyi={I\bibinitperiod},
+           given={S.\bibnamedelimi N.},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=91f2ec71c758cd581de4dfd5b6134298}{%
+           family={Votier},
+           familyi={V\bibinitperiod},
+           given={S.\bibnamedelimi C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ac09b586b86a8514775affb92f89678d}
+      \strng{fullhash}{da53dd39e5a719e1d543002f407a4edb}
+      \strng{bibnamehash}{ac09b586b86a8514775affb92f89678d}
+      \strng{authorbibnamehash}{ac09b586b86a8514775affb92f89678d}
+      \strng{authornamehash}{ac09b586b86a8514775affb92f89678d}
+      \strng{authorfullhash}{da53dd39e5a719e1d543002f407a4edb}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2054-5703, 2054-5703}
+      \field{journaltitle}{Royal Society Open Science}
+      \field{number}{9}
+      \field{title}{Seabird Diving Behaviour Reveals the Functional Significance of Shelf-Sea Fronts as Foraging Hotspots}
+      \field{volume}{3}
+      \field{year}{2016}
+      \field{pages}{160317}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1098/rsos.160317
+      \endverb
+    \endentry
+    \entry{dean_simultaneous_2015}{article}{}
+      \name{author}{8}{}{%
+        {{hash=18941844c6dfae69dd11b3a66f7591b3}{%
+           family={Dean},
+           familyi={D\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5dabd99d9089fe5d2cc98651d059e16d}{%
+           family={Kirk},
+           familyi={K\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=83159e0c3ae7977b040b663164a0f339}{%
+           family={Fayet},
+           familyi={F\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7c6348c896a1befcd2bebf41ff4ba9f8}{%
+           family={Shoji},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bdb688e56db1cc3c594acd2260ccd1d6}{%
+           family={Freeman},
+           familyi={F\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f9bde173061db782b3d8596bc11ebadb}{%
+           family={Leonard},
+           familyi={L\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=aef889c5ab21de412e923f222ba2d966}{%
+           family={Perrins},
+           familyi={P\bibinitperiod},
+           given={Cm},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f381cf5db02e6644abc2bc77e06db5dc}{%
+           family={Guilford},
+           familyi={G\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{6a617bfa62674d5f5fc64e79907cd6e4}
+      \strng{fullhash}{78e949bb5fc5fc23379e80b638563339}
+      \strng{bibnamehash}{6a617bfa62674d5f5fc64e79907cd6e4}
+      \strng{authorbibnamehash}{6a617bfa62674d5f5fc64e79907cd6e4}
+      \strng{authornamehash}{6a617bfa62674d5f5fc64e79907cd6e4}
+      \strng{authorfullhash}{78e949bb5fc5fc23379e80b638563339}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0171-8630, 1616-1599}
+      \field{journaltitle}{Marine Ecology Progress Series}
+      \field{title}{Simultaneous Multi-Colony Tracking of a Pelagic Seabird Reveals Cross-Colony Utilization of a Shared Foraging Area}
+      \field{volume}{538}
+      \field{year}{2015}
+      \field{pages}{239\bibrangedash 248}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.3354/meps11443
+      \endverb
+    \endentry
+    \entry{delord_movements_2020}{article}{}
+      \name{author}{8}{}{%
+        {{hash=47c27cc72c32341422a4d0c3cba45785}{%
+           family={Delord},
+           familyi={D\bibinitperiod},
+           given={Karine},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d6a3d0b8a317b511066eeefcb6b44a2e}{%
+           family={Barbraud},
+           familyi={B\bibinitperiod},
+           given={Christophe},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6a7a6691c9c64c52cee00181609d2d8a}{%
+           family={Pinaud},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=490f95222531bfb580106304d41f4a12}{%
+           family={Letournel},
+           familyi={L\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f2c43db738440498e5ee0a5e8b2ff5ec}{%
+           family={Jaugeon},
+           familyi={J\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=7dedf84fa11cb57aba972aca851e5d37}{%
+           family={Goraguer},
+           familyi={G\bibinitperiod},
+           given={Herle},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ca4b7ef97dec518e033dc3d8633e53ef}{%
+           family={Lazure},
+           familyi={L\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0ed1ab29314ba4dcbb8cd52b22e40576}{%
+           family={Lorm{é}e},
+           familyi={L\bibinitperiod},
+           given={Herv{é}},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f4727994271f897e2dc763c1784675b}
+      \strng{fullhash}{02911f87927ee38298f2fdde2ef89e74}
+      \strng{bibnamehash}{7f4727994271f897e2dc763c1784675b}
+      \strng{authorbibnamehash}{7f4727994271f897e2dc763c1784675b}
+      \strng{authornamehash}{7f4727994271f897e2dc763c1784675b}
+      \strng{authorfullhash}{02911f87927ee38298f2fdde2ef89e74}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Ornithology}
+      \field{title}{Movements of Three Alcid Species Breeding Sympatrically in {{Saint Pierre}} and {{Miquelon}}, Northwestern {{Atlantic Ocean}}}
+      \field{year}{2020}
+      \field{pages}{30}
+      \range{pages}{1}
+      \keyw{⛔ No DOI found}
+    \endentry
+    \entry{dunphy_seabirds_2020}{article}{}
+      \name{author}{8}{}{%
+        {{hash=bdd065bc7fe9c82a31c557124a9d082f}{%
+           family={Dunphy},
+           familyi={D\bibinitperiod},
+           given={B.\bibnamedelimi J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=2f91f0600700e8db1b27ced02ac14723}{%
+           family={Vickers},
+           familyi={V\bibinitperiod},
+           given={S.\bibnamedelimi I.},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=9bfa2052b7d90421cd5742cc6bbb7750}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=505e6c82d5f51e5ee1300f1e750212d8}{%
+           family={Sagar},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=ca191440caa29e9b2f4efdf68332359b}{%
+           family={Landers},
+           familyi={L\bibinitperiod},
+           given={T.\bibnamedelimi J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=192fd0aa468355a340bb06d16f444dc8}{%
+           family={Bury},
+           familyi={B\bibinitperiod},
+           given={S.\bibnamedelimi J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=27e2e79e474bd13d8d8b5a94e43e8077}{%
+           family={Hickey},
+           familyi={H\bibinitperiod},
+           given={A.\bibnamedelimi J.\bibnamedelimi R.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=3770a16524182eb6287bda8893025ccd}{%
+           family={Rayner},
+           familyi={R\bibinitperiod},
+           given={M.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{3af48bf7f6f9de35152e2fcc55633425}
+      \strng{fullhash}{05b54989b7bd1392fb89000ec2674e30}
+      \strng{bibnamehash}{3af48bf7f6f9de35152e2fcc55633425}
+      \strng{authorbibnamehash}{3af48bf7f6f9de35152e2fcc55633425}
+      \strng{authornamehash}{3af48bf7f6f9de35152e2fcc55633425}
+      \strng{authorfullhash}{05b54989b7bd1392fb89000ec2674e30}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0025-3162, 1432-1793}
+      \field{journaltitle}{Marine Biology}
+      \field{number}{4}
+      \field{shorttitle}{Seabirds as Environmental Indicators}
+      \field{title}{Seabirds as Environmental Indicators: Foraging Behaviour and Ecophysiology of Common Diving Petrels ({{Pelecanoides}} Urinatrix) Reflect Local-Scale Differences in Prey Availability}
+      \field{volume}{167}
+      \field{year}{2020}
+      \field{pages}{53}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s00227-020-3672-4
+      \endverb
+    \endentry
+    \entry{endo_classifying_2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=3effee894bf5d692d109780b060fe58b}{%
+           family={Endo},
+           familyi={E\bibinitperiod},
+           given={Yuki},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=1d9460752c11641030bf8cebf9ac9a51}{%
+           family={Toda},
+           familyi={T\bibinitperiod},
+           given={Hiroyuki},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a951d343970ab833da7f469b3e4323ad}{%
+           family={Nishida},
+           familyi={N\bibinitperiod},
+           given={Kyosuke},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9a51d8169ad1bfe836bb60f43bb15b8b}{%
+           family={Ikedo},
+           familyi={I\bibinitperiod},
+           given={Jotaro},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{25c7364a173d1d76abc3250a3e9d5685}
+      \strng{fullhash}{067d734f95dd52dcf822ab583324e241}
+      \strng{bibnamehash}{25c7364a173d1d76abc3250a3e9d5685}
+      \strng{authorbibnamehash}{25c7364a173d1d76abc3250a3e9d5685}
+      \strng{authornamehash}{25c7364a173d1d76abc3250a3e9d5685}
+      \strng{authorfullhash}{067d734f95dd52dcf822ab583324e241}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2364-415X, 2364-4168}
+      \field{journaltitle}{International Journal of Data Science and Analytics}
+      \field{number}{3-4}
+      \field{title}{Classifying Spatial Trajectories Using Representation Learning}
+      \field{volume}{2}
+      \field{year}{2016}
+      \field{pages}{107\bibrangedash 117}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/s41060-016-0014-1
+      \endverb
+    \endentry
+    \entry{fauchald_using_2003}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2d5f68e0443c49d391df3bee3917128c}{%
+           family={Fauchald},
+           familyi={F\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod}}}%
+        {{hash=827877fcb3dab29fe3508037aab2037f}{%
+           family={Tveraa},
+           familyi={T\bibinitperiod},
+           given={Torkild},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{76aaf82fe57d1cd56be49c5f80cf47c9}
+      \strng{fullhash}{76aaf82fe57d1cd56be49c5f80cf47c9}
+      \strng{bibnamehash}{76aaf82fe57d1cd56be49c5f80cf47c9}
+      \strng{authorbibnamehash}{76aaf82fe57d1cd56be49c5f80cf47c9}
+      \strng{authornamehash}{76aaf82fe57d1cd56be49c5f80cf47c9}
+      \strng{authorfullhash}{76aaf82fe57d1cd56be49c5f80cf47c9}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0012-9658}
+      \field{journaltitle}{Ecology}
+      \field{number}{2}
+      \field{title}{Using {{First}}-{{Passage Time}} in the Analysis of Area-Restricted Search and Habitat Selection}
+      \field{volume}{84}
+      \field{year}{2003}
+      \field{pages}{282\bibrangedash 288}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1890/0012-9658(2003)084[0282:UFPTIT]2.0.CO;2
+      \endverb
+    \endentry
+    \entry{furness_seabirds_1997}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e3033dc829220521f3fe7c6dfd5aec0d}{%
+           family={Furness},
+           familyi={F\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9d128e118033d848e6ec18997aed8d05}{%
+           family={Camphuysen},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f718ce3f7f7c21e9af853f03dc73ae4e}
+      \strng{fullhash}{f718ce3f7f7c21e9af853f03dc73ae4e}
+      \strng{bibnamehash}{f718ce3f7f7c21e9af853f03dc73ae4e}
+      \strng{authorbibnamehash}{f718ce3f7f7c21e9af853f03dc73ae4e}
+      \strng{authornamehash}{f718ce3f7f7c21e9af853f03dc73ae4e}
+      \strng{authorfullhash}{f718ce3f7f7c21e9af853f03dc73ae4e}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{10543139}
+      \field{journaltitle}{ICES Journal of Marine Science}
+      \field{number}{4}
+      \field{title}{Seabirds as Monitors of the Marine Environment}
+      \field{volume}{54}
+      \field{year}{1997}
+      \field{pages}{726\bibrangedash 737}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1006/jmsc.1997.0243
+      \endverb
+    \endentry
+    \entry{goodfellow_generative_2014}{article}{}
+      \name{author}{8}{}{%
+        {{hash=b8309a3e80e90bd0b1aa74558c5e9741}{%
+           family={Goodfellow},
+           familyi={G\bibinitperiod},
+           given={Ian\bibnamedelima J.},
+           giveni={I\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a341d25f80a8118cdbb90b272adc8b4f}{%
+           family={{Pouget-Abadie}},
+           familyi={P\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9e80f4779b032f68a6106e1424345450}{%
+           family={Mirza},
+           familyi={M\bibinitperiod},
+           given={Mehdi},
+           giveni={M\bibinitperiod}}}%
+        {{hash=743dd6cdaa6639320289d219d351d7b7}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Bing},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e8151f1b8f85a048cacb34f374ec922b}{%
+           family={{Warde-Farley}},
+           familyi={W\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=9ca00ffd7cc35f7cfb8f698aa9239c76}{%
+           family={Ozair},
+           familyi={O\bibinitperiod},
+           given={Sherjil},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ccec1ccd2e1aa86960eb2e872c6b7020}{%
+           family={Courville},
+           familyi={C\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+        {{hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{28c80b82fce5cf9430bd3acb1557943f}
+      \strng{fullhash}{013d741ee9b7741be2bb987dd83f1374}
+      \strng{bibnamehash}{28c80b82fce5cf9430bd3acb1557943f}
+      \strng{authorbibnamehash}{28c80b82fce5cf9430bd3acb1557943f}
+      \strng{authornamehash}{28c80b82fce5cf9430bd3acb1557943f}
+      \strng{authorfullhash}{013d741ee9b7741be2bb987dd83f1374}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arxiv}
+      \field{journaltitle}{arXiv:1406.2661}
+      \field{title}{Generative {{Adversarial Networks}}}
+      \field{year}{2014}
+      \verb{eprint}
+      \verb 1406.2661
+      \endverb
+      \keyw{⛔ No DOI found,Computer Science - Machine Learning,Statistics - Machine Learning}
+    \endentry
+    \entry{guilford_gps_2008}{article}{}
+      \name{author}{9}{}{%
+        {{hash=b13b7eb97faffc5d4cfb1f3c8433ce9b}{%
+           family={Guilford},
+           familyi={G\bibinitperiod},
+           given={T.\bibnamedelimi C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=dd1872880b330df5c5fffbf7ed5646f1}{%
+           family={Meade},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0dd291a721d5323194c0eff5144ca16d}{%
+           family={Freeman},
+           familyi={F\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ccf577aea83ecc361caf7baf9eabddb4}{%
+           family={Biro},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d69b404018fd1519a939dbe52f77bc2d}{%
+           family={Evans},
+           familyi={E\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d640a2eda72e8bbf7b18d1ceebb3710f}{%
+           family={Bonadonna},
+           familyi={B\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=bd3ce9dc89bddbe50bdc2ad39bee0cf7}{%
+           family={Boyle},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=9f9529ad7f4e1215d6ea667189ff06c0}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1c1493740d5d61cca755cdb96f0524ab}{%
+           family={Perrins},
+           familyi={P\bibinitperiod},
+           given={C.\bibnamedelimi M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ccce1adb8efff0965d6c349075ca5cdf}
+      \strng{fullhash}{cdd7f31d89af19994cb224294ef3a8bc}
+      \strng{bibnamehash}{ccce1adb8efff0965d6c349075ca5cdf}
+      \strng{authorbibnamehash}{ccce1adb8efff0965d6c349075ca5cdf}
+      \strng{authornamehash}{ccce1adb8efff0965d6c349075ca5cdf}
+      \strng{authorfullhash}{cdd7f31d89af19994cb224294ef3a8bc}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{00191019}
+      \field{journaltitle}{Ibis}
+      \field{number}{3}
+      \field{shorttitle}{{{GPS}} Tracking of the Foraging Movements of {{Manx Shearwaters Puffinus}} Puffinus Breeding on {{Skomer Island}}, {{Wales}}}
+      \field{title}{{{GPS}} Tracking of the Foraging Movements of {{Manx Shearwaters Puffinus}} Puffinus Breeding on {{Skomer Island}}, {{Wales}}: {{GPS}} Tracking of Breeding {{Manx Shearwaters}}}
+      \field{volume}{150}
+      \field{year}{2008}
+      \field{pages}{462\bibrangedash 473}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1111/j.1474-919X.2008.00805.x
+      \endverb
+    \endentry
+    \entry{guilford_migration_2009}{article}{}
+      \name{author}{9}{}{%
+        {{hash=f381cf5db02e6644abc2bc77e06db5dc}{%
+           family={Guilford},
+           familyi={G\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3acd74aff2225abcbc118c50686cd3e9}{%
+           family={Meade},
+           familyi={M\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a81893f5acb4b4c96f160f0c6e1016cd}{%
+           family={Willis},
+           familyi={W\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f14c5c18f5de33245618f4c7fcd41abd}{%
+           family={Phillips},
+           familyi={P\bibinitperiod},
+           given={R.A},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1dfaa2f93108182d3ed75affcdedd336}{%
+           family={Boyle},
+           familyi={B\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=67e21120146db1b8190e7e1e2a299d8a}{%
+           family={Roberts},
+           familyi={R\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d1961b5ba2d4edac1bc608e8b4cff707}{%
+           family={Collett},
+           familyi={C\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bdb688e56db1cc3c594acd2260ccd1d6}{%
+           family={Freeman},
+           familyi={F\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=68d700fb857c19c3f49405b6d28cba6b}{%
+           family={Perrins},
+           familyi={P\bibinitperiod},
+           given={C.M},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f36cee00eee2e4ad8d9679f6411b396}
+      \strng{fullhash}{a88723210b85f961237e52aef9b20f24}
+      \strng{bibnamehash}{6f36cee00eee2e4ad8d9679f6411b396}
+      \strng{authorbibnamehash}{6f36cee00eee2e4ad8d9679f6411b396}
+      \strng{authornamehash}{6f36cee00eee2e4ad8d9679f6411b396}
+      \strng{authorfullhash}{a88723210b85f961237e52aef9b20f24}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Royal Society B: Biological Sciences}
+      \field{number}{1660}
+      \field{title}{Migration and Stopover in a Small Pelagic Seabird, the {{Manx}} Shearwater {{{\emph{Puffinus}}}}{\emph{ Puffinus}} : Insights from Machine Learning}
+      \field{volume}{276}
+      \field{year}{2009}
+      \field{pages}{1215\bibrangedash 1223}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1098/rspb.2008.1577
+      \endverb
+    \endentry
+    \entry{hazen_marine_2019}{article}{}
+      \name{author}{9}{}{%
+        {{hash=f9c9f1a625e64583fc0b62dda94b515e}{%
+           family={Hazen},
+           familyi={H\bibinitperiod},
+           given={Elliott\bibnamedelima L},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=51b49cb55c1b7d9a3156f7ef5b55c4bd}{%
+           family={Abrahms},
+           familyi={A\bibinitperiod},
+           given={Briana},
+           giveni={B\bibinitperiod}}}%
+        {{hash=c19533274d8031b77f5b861c1839c279}{%
+           family={Brodie},
+           familyi={B\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2903db66a53ea71f729d7b5d27db5270}{%
+           family={Carroll},
+           familyi={C\bibinitperiod},
+           given={Gemma},
+           giveni={G\bibinitperiod}}}%
+        {{hash=bb74599b0b8e7c5d6784caaf00edca71}{%
+           family={Jacox},
+           familyi={J\bibinitperiod},
+           given={Michael\bibnamedelima G},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=b4bc7383628654773abbe19097916bce}{%
+           family={Savoca},
+           familyi={S\bibinitperiod},
+           given={Matthew\bibnamedelima S},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=da787a31a277d352b9eec96452e772c4}{%
+           family={Scales},
+           familyi={S\bibinitperiod},
+           given={Kylie\bibnamedelima L},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=10bebb5e8826fca423acaa13a861f1bc}{%
+           family={Sydeman},
+           familyi={S\bibinitperiod},
+           given={William\bibnamedelima J},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=fdeeda1e584876da2acd591008e79640}{%
+           family={Bograd},
+           familyi={B\bibinitperiod},
+           given={Steven\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{4e013ae7fba4d0b467d1a01f97ff7791}
+      \strng{fullhash}{2cb987a2507f3a3a8c7d097fa2c12fde}
+      \strng{bibnamehash}{4e013ae7fba4d0b467d1a01f97ff7791}
+      \strng{authorbibnamehash}{4e013ae7fba4d0b467d1a01f97ff7791}
+      \strng{authornamehash}{4e013ae7fba4d0b467d1a01f97ff7791}
+      \strng{authorfullhash}{2cb987a2507f3a3a8c7d097fa2c12fde}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1540-9295, 1540-9309}
+      \field{journaltitle}{Frontiers in Ecology and the Environment}
+      \field{number}{10}
+      \field{title}{Marine Top Predators as Climate and Ecosystem Sentinels}
+      \field{volume}{17}
+      \field{year}{2019}
+      \field{pages}{565\bibrangedash 574}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1002/fee.2125
+      \endverb
+    \endentry
+    \entry{hooker_marine_2004}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9dc305ceaaee452b0fdf763f041c5f04}{%
+           family={Hooker},
+           familyi={H\bibinitperiod},
+           given={Sascha\bibnamedelima K},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=fee9774e680998e0c5590339a5dfe1b3}{%
+           family={Gerber},
+           familyi={G\bibinitperiod},
+           given={Leah\bibnamedelima R},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{bc79721e28d0463bc988d2bdfd7fc598}
+      \strng{fullhash}{bc79721e28d0463bc988d2bdfd7fc598}
+      \strng{bibnamehash}{bc79721e28d0463bc988d2bdfd7fc598}
+      \strng{authorbibnamehash}{bc79721e28d0463bc988d2bdfd7fc598}
+      \strng{authornamehash}{bc79721e28d0463bc988d2bdfd7fc598}
+      \strng{authorfullhash}{bc79721e28d0463bc988d2bdfd7fc598}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BioScience}
+      \field{title}{Marine {{Reserves}} as a {{Tool}} for {{Ecosystem}}-{{Based Management}}: {{The Potential Importance}} of {{Megafauna}}}
+      \field{volume}{54}
+      \field{year}{2004}
+      \field{pages}{27\bibrangedash 39}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1641/0006-3568(2004)054[0027:MRAATF]2.0.CO;2
+      \endverb
+    \endentry
+    \entry{isola_image--image_2018}{article}{}
+      \name{author}{4}{}{%
+        {{hash=cae9f806bc99a5f19fadea538fc2db04}{%
+           family={Isola},
+           familyi={I\bibinitperiod},
+           given={Phillip},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9fbb4b31963f07f34a13b375b4997338}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Jun-Yan},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=fbb5fac74ecd20c0f90a3884d6a93cdf}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Tinghui},
+           giveni={T\bibinitperiod}}}%
+        {{hash=6a42d448523b8d7c72613345041880c5}{%
+           family={Efros},
+           familyi={E\bibinitperiod},
+           given={Alexei\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd9b478c7b76d20d978868251cf3ad35}
+      \strng{fullhash}{6e2e3209cb26e11fbc35df057fa4a825}
+      \strng{bibnamehash}{dd9b478c7b76d20d978868251cf3ad35}
+      \strng{authorbibnamehash}{dd9b478c7b76d20d978868251cf3ad35}
+      \strng{authornamehash}{dd9b478c7b76d20d978868251cf3ad35}
+      \strng{authorfullhash}{6e2e3209cb26e11fbc35df057fa4a825}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs}
+      \field{eprinttype}{arxiv}
+      \field{journaltitle}{arXiv:1611.07004 [cs]}
+      \field{title}{Image-to-{{Image Translation}} with {{Conditional Adversarial Networks}}}
+      \field{year}{2018}
+      \verb{eprint}
+      \verb 1611.07004
+      \endverb
+      \keyw{⛔ No DOI found,Computer Science - Computer Vision and Pattern Recognition}
+    \endentry
+    \entry{jahncke_diets_1998}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1399c137f9709de2cb1f9bcae88c55a1}{%
+           family={Jahncke},
+           familyi={J\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=08e624ed4b94609f9a02ef35bc89d46e}{%
+           family={Goya},
+           familyi={G\bibinitperiod},
+           given={Elisa},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{9147ca2d409f4dd240f0a4b0ec7f556e}
+      \strng{fullhash}{9147ca2d409f4dd240f0a4b0ec7f556e}
+      \strng{bibnamehash}{9147ca2d409f4dd240f0a4b0ec7f556e}
+      \strng{authorbibnamehash}{9147ca2d409f4dd240f0a4b0ec7f556e}
+      \strng{authornamehash}{9147ca2d409f4dd240f0a4b0ec7f556e}
+      \strng{authorfullhash}{9147ca2d409f4dd240f0a4b0ec7f556e}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Boletin Instituto del Mar del Peru}
+      \field{title}{Diets of the {{Guanay}} Cormorant and {{Peruvian}} Booby as Indicators of the Abundance and Distribution of Anchovy}
+      \field{volume}{17}
+      \field{year}{1998}
+      \field{pages}{15\bibrangedash 33}
+      \range{pages}{19}
+    \endentry
+    \entry{joo_navigating_2020}{article}{}
+      \name{author}{6}{}{%
+        {{hash=ae400b5cb23f49079fd937d46460145a}{%
+           family={Joo},
+           familyi={J\bibinitperiod},
+           given={Roc{í}o},
+           giveni={R\bibinitperiod}}}%
+        {{hash=59ff2d05d5f1dde8cc7a6ab4a3f54177}{%
+           family={Boone},
+           familyi={B\bibinitperiod},
+           given={Matthew\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=cdb50bb651cd7263c9e1d383cdd5f972}{%
+           family={Clay},
+           familyi={C\bibinitperiod},
+           given={Thomas\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d6a17fae8e2c77e996f4cb64970b5cf5}{%
+           family={Patrick},
+           familyi={P\bibinitperiod},
+           given={Samantha\bibnamedelima C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=3bed911c72f1bf947606531df6778561}{%
+           family={Clusella-Trullas},
+           familyi={C\bibinithyphendelim T\bibinitperiod},
+           given={Susana},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f5ff404b5451683c48de58786c186ff3}{%
+           family={Basille},
+           familyi={B\bibinitperiod},
+           given={Mathieu},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=b0e290fa16cefe5ac49768fab8d6d0e5}{%
+           family={B{ö}rger},
+           familyi={B\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{6f386abc00a8412e632284d0e5a237e0}
+      \strng{fullhash}{bbb05c301a2ed1daed16333dfbf916ae}
+      \strng{bibnamehash}{6f386abc00a8412e632284d0e5a237e0}
+      \strng{authorbibnamehash}{6f386abc00a8412e632284d0e5a237e0}
+      \strng{authornamehash}{6f386abc00a8412e632284d0e5a237e0}
+      \strng{authorfullhash}{bbb05c301a2ed1daed16333dfbf916ae}
+      \strng{editorbibnamehash}{b0e290fa16cefe5ac49768fab8d6d0e5}
+      \strng{editornamehash}{b0e290fa16cefe5ac49768fab8d6d0e5}
+      \strng{editorfullhash}{b0e290fa16cefe5ac49768fab8d6d0e5}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0021-8790, 1365-2656}
+      \field{journaltitle}{Journal of Animal Ecology}
+      \field{number}{1}
+      \field{shorttitle}{Navigating through The}
+      \field{title}{Navigating through the {\textsc{r}} Packages for Movement}
+      \field{volume}{89}
+      \field{year}{2020}
+      \field{pages}{248\bibrangedash 267}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1111/1365-2656.13116
+      \endverb
+    \endentry
+    \entry{kawaguchi_generalization_2020}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e6710bfa0fd4c3d0c8e305c8035df221}{%
+           family={Kawaguchi},
+           familyi={K\bibinitperiod},
+           given={Kenji},
+           giveni={K\bibinitperiod}}}%
+        {{hash=8cb010dee0103b13ff6aab5e1bd2e948}{%
+           family={Kaelbling},
+           familyi={K\bibinitperiod},
+           given={Leslie\bibnamedelima Pack},
+           giveni={L\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1adf8ed1e8aa203e8ca4463e1d14f58}
+      \strng{fullhash}{c1adf8ed1e8aa203e8ca4463e1d14f58}
+      \strng{bibnamehash}{c1adf8ed1e8aa203e8ca4463e1d14f58}
+      \strng{authorbibnamehash}{c1adf8ed1e8aa203e8ca4463e1d14f58}
+      \strng{authornamehash}{c1adf8ed1e8aa203e8ca4463e1d14f58}
+      \strng{authorfullhash}{c1adf8ed1e8aa203e8ca4463e1d14f58}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs, stat}
+      \field{eprinttype}{arxiv}
+      \field{journaltitle}{arXiv:1710.05468 [cs, stat]}
+      \field{title}{Generalization in {{Deep Learning}}}
+      \field{year}{2020}
+      \verb{eprint}
+      \verb 1710.05468
+      \endverb
+      \keyw{⛔ No DOI found,Computer Science - Artificial Intelligence,Computer Science - Machine Learning,Computer Science - Neural and Evolutionary Computing,Statistics - Machine Learning}
+    \endentry
+    \entry{kingma_adam_2014}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1e072d74f4ac1094c9c26e1b592cea4a}{%
+           family={Kingma},
+           familyi={K\bibinitperiod},
+           given={Diederik\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8aa66e8231cc2fdbe67aa4f18ca970c6}{%
+           family={Ba},
+           familyi={B\bibinitperiod},
+           given={Jimmy},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1670936fba733d1cb2d4c23bce95c6e}
+      \strng{fullhash}{c1670936fba733d1cb2d4c23bce95c6e}
+      \strng{bibnamehash}{c1670936fba733d1cb2d4c23bce95c6e}
+      \strng{authorbibnamehash}{c1670936fba733d1cb2d4c23bce95c6e}
+      \strng{authornamehash}{c1670936fba733d1cb2d4c23bce95c6e}
+      \strng{authorfullhash}{c1670936fba733d1cb2d4c23bce95c6e}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{eprinttype}{arxiv}
+      \field{journaltitle}{arXiv preprint arXiv:1412.6980}
+      \field{shorttitle}{Adam}
+      \field{title}{Adam: {{A Method}} for {{Stochastic Optimization}}}
+      \field{year}{2014}
+      \verb{eprint}
+      \verb 1412.6980
+      \endverb
+      \keyw{⛔ No DOI found,Computer Science - Machine Learning}
+    \endentry
+    \entry{lascelles_migratory_2014}{article}{}
+      \name{author}{11}{}{%
+        {{hash=862568c80151d994f3c0af2739fe709c}{%
+           family={Lascelles},
+           familyi={L\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e253edbfac8c2a5648740a0f31bbd105}{%
+           family={Notarbartolo\bibnamedelimb Di\bibnamedelima Sciara},
+           familyi={N\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Giuseppe},
+           giveni={G\bibinitperiod}}}%
+        {{hash=2373131e80b5c66022b3758ac387ff81}{%
+           family={Agardy},
+           familyi={A\bibinitperiod},
+           given={Tundi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ec0f46ff7aa99216ce617cfcee322df5}{%
+           family={Cuttelod},
+           familyi={C\bibinitperiod},
+           given={Annabelle},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0b2864dcc77e7dc734b65211a5104524}{%
+           family={Eckert},
+           familyi={E\bibinitperiod},
+           given={Sara},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1c966881e91cf3129b05e0d6bcca43d8}{%
+           family={Glowka},
+           familyi={G\bibinitperiod},
+           given={Lyle},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4a843b85106c764f841c554ce80df8b8}{%
+           family={Hoyt},
+           familyi={H\bibinitperiod},
+           given={Erich},
+           giveni={E\bibinitperiod}}}%
+        {{hash=578b43ecd35e19ccb351229941a4dff2}{%
+           family={Llewellyn},
+           familyi={L\bibinitperiod},
+           given={Fiona},
+           giveni={F\bibinitperiod}}}%
+        {{hash=fc42ed65a9ed3390ef72c7981bf94466}{%
+           family={Louzao},
+           familyi={L\bibinitperiod},
+           given={Maite},
+           giveni={M\bibinitperiod}}}%
+        {{hash=bb38333a7a6281aa96d67751f6c414fa}{%
+           family={Ridoux},
+           familyi={R\bibinitperiod},
+           given={Vincent},
+           giveni={V\bibinitperiod}}}%
+        {{hash=5dbb992dbe5963608af2daa08ceb6382}{%
+           family={Tetley},
+           familyi={T\bibinitperiod},
+           given={Mike\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{89686f42759e4b855ac9c8e2804c1dea}
+      \strng{fullhash}{f987d32ade85241762c8e9b2e24c26c4}
+      \strng{bibnamehash}{89686f42759e4b855ac9c8e2804c1dea}
+      \strng{authorbibnamehash}{89686f42759e4b855ac9c8e2804c1dea}
+      \strng{authornamehash}{89686f42759e4b855ac9c8e2804c1dea}
+      \strng{authorfullhash}{f987d32ade85241762c8e9b2e24c26c4}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{10527613}
+      \field{journaltitle}{Aquatic Conservation: Marine and Freshwater Ecosystems}
+      \field{number}{S2}
+      \field{shorttitle}{Migratory Marine Species}
+      \field{title}{Migratory Marine Species: Their Status, Threats and Conservation Management Needs}
+      \field{volume}{24}
+      \field{year}{2014}
+      \field{pages}{111\bibrangedash 127}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1002/aqc.2512
+      \endverb
+    \endentry
+    \entry{lecun_deep_2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6a1aa6b7eab12b931ca7c7e3f927231d}{%
+           family={LeCun},
+           familyi={L\bibinitperiod},
+           given={Yann},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9a8750ccdb2a4cf14d2655face1ce016}{%
+           family={Hinton},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{c6c75bd00ce5a488e91a749d8383b3df}
+      \strng{fullhash}{c6c75bd00ce5a488e91a749d8383b3df}
+      \strng{bibnamehash}{c6c75bd00ce5a488e91a749d8383b3df}
+      \strng{authorbibnamehash}{c6c75bd00ce5a488e91a749d8383b3df}
+      \strng{authornamehash}{c6c75bd00ce5a488e91a749d8383b3df}
+      \strng{authorfullhash}{c6c75bd00ce5a488e91a749d8383b3df}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0028-0836, 1476-4687}
+      \field{journaltitle}{Nature}
+      \field{number}{7553}
+      \field{title}{Deep Learning}
+      \field{volume}{521}
+      \field{year}{2015}
+      \field{pages}{436\bibrangedash 444}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1038/nature14539
+      \endverb
+    \endentry
+    \entry{lewis_flexible_2004}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2685914f90f026fe425a7295afbb79e2}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=13b243fb7fda80e2f4c888bf224a7b6b}{%
+           family={Schreiber},
+           familyi={S\bibinitperiod},
+           given={E.A.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b6fbec6c212c38fcfd64a8960e499763}{%
+           family={Daunt},
+           familyi={D\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=43bfada61f73328cfaf887a024e815ad}{%
+           family={Schenk},
+           familyi={S\bibinitperiod},
+           given={G.A.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=e8c0c00e3a0a73e39a77ad3f7581296a}{%
+           family={Wanless},
+           familyi={W\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f4adaa2b3e24f1eb4b1205221b750403}{%
+           family={Hamer},
+           familyi={H\bibinitperiod},
+           given={K.C.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{0904796120c2fe8bd86f352f3e1c95d5}
+      \strng{fullhash}{ce8eb03e435305c52c8c9aaca0c91371}
+      \strng{bibnamehash}{0904796120c2fe8bd86f352f3e1c95d5}
+      \strng{authorbibnamehash}{0904796120c2fe8bd86f352f3e1c95d5}
+      \strng{authornamehash}{0904796120c2fe8bd86f352f3e1c95d5}
+      \strng{authorfullhash}{ce8eb03e435305c52c8c9aaca0c91371}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00033472}
+      \field{journaltitle}{Animal Behaviour}
+      \field{number}{6}
+      \field{title}{Flexible Foraging Patterns under Different Time Constraints in Tropical Boobies}
+      \field{volume}{68}
+      \field{year}{2004}
+      \field{pages}{1331\bibrangedash 1337}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.anbehav.2004.04.007
+      \endverb
+    \endentry
+    \entry{maekawa_deep_2020}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2a9fe198744f07b69c69580e7822a80a}{%
+           family={Maekawa},
+           familyi={M\bibinitperiod},
+           given={Takuya},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{2a9fe198744f07b69c69580e7822a80a}
+      \strng{fullhash}{2a9fe198744f07b69c69580e7822a80a}
+      \strng{bibnamehash}{2a9fe198744f07b69c69580e7822a80a}
+      \strng{authorbibnamehash}{2a9fe198744f07b69c69580e7822a80a}
+      \strng{authornamehash}{2a9fe198744f07b69c69580e7822a80a}
+      \strng{authorfullhash}{2a9fe198744f07b69c69580e7822a80a}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Communications}
+      \field{title}{Deep Learning-Assisted Comparative Analysis of Animal Trajectories with {{DeepHL}}}
+      \field{volume}{11}
+      \field{year}{2020}
+      \field{pages}{5316}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41467-020-19105-0
+      \endverb
+    \endentry
+    \entry{malde_machine_2020}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0a806857e0c1831aee6defdfdc3c205f}{%
+           family={Malde},
+           familyi={M\bibinitperiod},
+           given={Ketil},
+           giveni={K\bibinitperiod}}}%
+        {{hash=aebdcd92328aed5e99b071fded1bfbd4}{%
+           family={Handegard},
+           familyi={H\bibinitperiod},
+           given={Nils\bibnamedelima Olav},
+           giveni={N\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=f6a56098c8e007448eff18cf0253ffb7}{%
+           family={Eikvil},
+           familyi={E\bibinitperiod},
+           given={Line},
+           giveni={L\bibinitperiod}}}%
+        {{hash=c0f4532c0f30c4f01ad4edb137284317}{%
+           family={Salberg},
+           familyi={S\bibinitperiod},
+           given={Arnt-Børre},
+           giveni={A\bibinithyphendelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0ddd688544255bb26ad34350e1e70af}
+      \strng{fullhash}{afcefd2a3652e47c52324a624a6f9708}
+      \strng{bibnamehash}{b0ddd688544255bb26ad34350e1e70af}
+      \strng{authorbibnamehash}{b0ddd688544255bb26ad34350e1e70af}
+      \strng{authornamehash}{b0ddd688544255bb26ad34350e1e70af}
+      \strng{authorfullhash}{afcefd2a3652e47c52324a624a6f9708}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ICES Journal of Marine Science}
+      \field{title}{Machine Intelligence and the Data-Driven Future of Marine Science}
+      \field{year}{2020}
+      \field{pages}{12}
+      \range{pages}{1}
+      \keyw{⛔ No DOI found}
+    \endentry
+    \entry{mcclintock_momentuhmm_2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=e9bb2f1d15f5f685161bc4132a00ec83}{%
+           family={McClintock},
+           familyi={M\bibinitperiod},
+           given={Brett\bibnamedelima T.},
+           giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=53de67a5a5217469ce64d75e0c00599f}{%
+           family={Michelot},
+           familyi={M\bibinitperiod},
+           given={Th{é}o},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=3408ddfcef0b9442b1bb51c4f27871fd}{%
+           family={Goslee},
+           familyi={G\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{5ba491acfed939134d14044845c46a9d}
+      \strng{fullhash}{5ba491acfed939134d14044845c46a9d}
+      \strng{bibnamehash}{5ba491acfed939134d14044845c46a9d}
+      \strng{authorbibnamehash}{5ba491acfed939134d14044845c46a9d}
+      \strng{authornamehash}{5ba491acfed939134d14044845c46a9d}
+      \strng{authorfullhash}{5ba491acfed939134d14044845c46a9d}
+      \strng{editorbibnamehash}{3408ddfcef0b9442b1bb51c4f27871fd}
+      \strng{editornamehash}{3408ddfcef0b9442b1bb51c4f27871fd}
+      \strng{editorfullhash}{3408ddfcef0b9442b1bb51c4f27871fd}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{2041-210X, 2041-210X}
+      \field{journaltitle}{Methods in Ecology and Evolution}
+      \field{number}{6}
+      \field{shorttitle}{{{momentuHMM}}}
+      \field{title}{{{momentuHMM}}: {R} Package for Generalized Hidden {{Markov}} Models of Animal Movement}
+      \field{volume}{9}
+      \field{year}{2018}
+      \field{pages}{1518\bibrangedash 1530}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1111/2041-210X.12995
+      \endverb
+    \endentry
+    \entry{mendez_geographical_2017}{article}{}
+      \name{author}{8}{}{%
+        {{hash=46c04fdbf17a28af50e4e34c55733e3b}{%
+           family={Mendez},
+           familyi={M\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4b47a6894c3997b83e2d720ded872030}{%
+           family={Borsa},
+           familyi={B\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8f6d8f87eacfde4e9cb5d575fbe7be2c}{%
+           family={Cruz},
+           familyi={C\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=98b172eac555860c3f0d8dae8df7ec49}{%
+           family={{de Grissac}},
+           familyi={d\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ae4733c93baeb63c61d0689f6e9542de}{%
+           family={Hennicke},
+           familyi={H\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9041a5861f831cd46ae35fc960d05f72}{%
+           family={Lallemand},
+           familyi={L\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5ee87dcfb71671f217ac1aff394f96ab}{%
+           family={Prudor},
+           familyi={P\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=29794b22d14e576a49818aac75189fd4}{%
+           family={Weimerskirch},
+           familyi={W\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8f8000dd5a8c9734cba1e9933047d12}
+      \strng{fullhash}{6214d0db7091e691d91d099974be9220}
+      \strng{bibnamehash}{f8f8000dd5a8c9734cba1e9933047d12}
+      \strng{authorbibnamehash}{f8f8000dd5a8c9734cba1e9933047d12}
+      \strng{authornamehash}{f8f8000dd5a8c9734cba1e9933047d12}
+      \strng{authorfullhash}{6214d0db7091e691d91d099974be9220}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0171-8630, 1616-1599}
+      \field{journaltitle}{Marine Ecology Progress Series}
+      \field{title}{Geographical Variation in the Foraging Behaviour of the Pantropical Red-Footed Booby}
+      \field{volume}{568}
+      \field{year}{2017}
+      \field{pages}{217\bibrangedash 230}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.3354/meps12052
+      \endverb
+    \endentry
+    \entry{nathan_movement_2008}{article}{}
+      \name{author}{7}{}{%
+        {{hash=3caa3f3a694138d8d92753067f2c8716}{%
+           family={Nathan},
+           familyi={N\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3eabca8bb245f09f58888ef22d23263d}{%
+           family={Getz},
+           familyi={G\bibinitperiod},
+           given={W.\bibnamedelimi M.},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=cf48a70b11c077f578f380ed92425d14}{%
+           family={Revilla},
+           familyi={R\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=755b3e93a9b3a2f14cf5e106032e67e0}{%
+           family={Holyoak},
+           familyi={H\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=840110a58bac69c24b8a257dbbcfe64f}{%
+           family={Kadmon},
+           familyi={K\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9e87653ab012bfe90746bd1969e11ce6}{%
+           family={Saltz},
+           familyi={S\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=71b5e03704ccb854f00777bf375e37bc}{%
+           family={Smouse},
+           familyi={S\bibinitperiod},
+           given={P.\bibnamedelimi E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{92c50a253a6f5b7bb40442569cd692ce}
+      \strng{fullhash}{508d39961c3f74702a9dddda761d985a}
+      \strng{bibnamehash}{92c50a253a6f5b7bb40442569cd692ce}
+      \strng{authorbibnamehash}{92c50a253a6f5b7bb40442569cd692ce}
+      \strng{authornamehash}{92c50a253a6f5b7bb40442569cd692ce}
+      \strng{authorfullhash}{508d39961c3f74702a9dddda761d985a}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0027-8424, 1091-6490}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{49}
+      \field{title}{A Movement Ecology Paradigm for Unifying Organismal Movement Research}
+      \field{volume}{105}
+      \field{year}{2008}
+      \field{pages}{19052\bibrangedash 19059}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1073/pnas.0800375105
+      \endverb
+    \endentry
+    \entry{nelson_pelicans_2005}{book}{}
+      \name{author}{1}{}{%
+        {{hash=789c4a7461ae26b4907bc8990d250188}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={Bryan},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{789c4a7461ae26b4907bc8990d250188}
+      \strng{fullhash}{789c4a7461ae26b4907bc8990d250188}
+      \strng{bibnamehash}{789c4a7461ae26b4907bc8990d250188}
+      \strng{authorbibnamehash}{789c4a7461ae26b4907bc8990d250188}
+      \strng{authornamehash}{789c4a7461ae26b4907bc8990d250188}
+      \strng{authorfullhash}{789c4a7461ae26b4907bc8990d250188}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Pelicans, Cormorants, and Their Relatives}
+      \field{year}{2005}
+    \endentry
+    \entry{nguyen_geotracknet-maritime_2021}{article}{}
+      \name{author}{5}{}{%
+        {{hash=31b7d19b00da0086ca3211901dfc6c48}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Duong},
+           giveni={D\bibinitperiod}}}%
+        {{hash=dcae264828517de225d3a8a73878279e}{%
+           family={Vadaine},
+           familyi={V\bibinitperiod},
+           given={Rodolphe},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5edbd31d0078746c72e7a0d02936e0d3}{%
+           family={Hajduch},
+           familyi={H\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod}}}%
+        {{hash=016517df462773c362e20df917aeb217}{%
+           family={Garello},
+           familyi={G\bibinitperiod},
+           given={Ren{é}},
+           giveni={R\bibinitperiod}}}%
+        {{hash=2c80675299362ab0d3f7c4c3b5bc6cb6}{%
+           family={Fablet},
+           familyi={F\bibinitperiod},
+           given={Ronan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f015f6f50495c9923450505ff23d3e75}
+      \strng{fullhash}{4e33723295808625c8490c8c642fbe61}
+      \strng{bibnamehash}{f015f6f50495c9923450505ff23d3e75}
+      \strng{authorbibnamehash}{f015f6f50495c9923450505ff23d3e75}
+      \strng{authornamehash}{f015f6f50495c9923450505ff23d3e75}
+      \strng{authorfullhash}{4e33723295808625c8490c8c642fbe61}
+      \field{sortinit}{N}
+      \field{sortinithash}{f7242c3ed3dc50029fca1be76c497c7c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs, stat}
+      \field{eprinttype}{arxiv}
+      \field{journaltitle}{arXiv:1912.00682 [cs, stat]}
+      \field{title}{{{GeoTrackNet}}-{{A Maritime Anomaly Detector}} Using {{Probabilistic Neural Network Representation}} of {{AIS Tracks}} and {{A Contrario Detection}}}
+      \field{year}{2021}
+      \verb{eprint}
+      \verb 1912.00682
+      \endverb
+      \keyw{⛔ No DOI found,Computer Science - Artificial Intelligence,Computer Science - Machine Learning,Statistics - Machine Learning}
+    \endentry
+    \entry{oppel_foraging_2015}{article}{}
+      \name{author}{13}{}{%
+        {{hash=48b87ea665e3c1c6d771c43f34b15701}{%
+           family={Oppel},
+           familyi={O\bibinitperiod},
+           given={Steffen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8fe7acc5b8d2692a74bf935387361bc0}{%
+           family={Beard},
+           familyi={B\bibinitperiod},
+           given={Annalea},
+           giveni={A\bibinitperiod}}}%
+        {{hash=331863bda880fd696681115f0e7cfa65}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Derren},
+           giveni={D\bibinitperiod}}}%
+        {{hash=513c2260c62135eea632022f19a6e3a4}{%
+           family={Mackley},
+           familyi={M\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod}}}%
+        {{hash=307caef5c30e90fddafaaeceecfbd9dc}{%
+           family={Leat},
+           familyi={L\bibinitperiod},
+           given={Eliza},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9ad1f960380c7dcbb8b893065c9431d2}{%
+           family={Henry},
+           familyi={H\bibinitperiod},
+           given={Leeann},
+           giveni={L\bibinitperiod}}}%
+        {{hash=8b25f4875337ae2d975a04de0e3b0ad1}{%
+           family={Clingham},
+           familyi={C\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8aa271dcb16bf158e866a2ddaaa99a86}{%
+           family={Fowler},
+           familyi={F\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=3da95b5c50e09954f44f7c21b447e4d3}{%
+           family={Sim},
+           familyi={S\bibinitperiod},
+           given={Jolene},
+           giveni={J\bibinitperiod}}}%
+        {{hash=758686780a9b7d29d7b2001268fc2a00}{%
+           family={Sommerfeld},
+           familyi={S\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f0a9a83a93872a60420640abac88fb93}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6672e0b996a21371256d8013dca83b4c}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+        {{hash=12cce242e538e07c47020590413383c5}{%
+           family={Bolton},
+           familyi={B\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{16d03a289011e0cedda9c68d1cd5d29b}
+      \strng{fullhash}{a763c5f35564eb71c6a1ff832ca1bec0}
+      \strng{bibnamehash}{16d03a289011e0cedda9c68d1cd5d29b}
+      \strng{authorbibnamehash}{16d03a289011e0cedda9c68d1cd5d29b}
+      \strng{authornamehash}{16d03a289011e0cedda9c68d1cd5d29b}
+      \strng{authorfullhash}{a763c5f35564eb71c6a1ff832ca1bec0}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0340-5443, 1432-0762}
+      \field{journaltitle}{Behavioral Ecology and Sociobiology}
+      \field{number}{6}
+      \field{title}{Foraging Distribution of a Tropical Seabird Supports {{Ashmole}}'s Hypothesis of Population Regulation}
+      \field{volume}{69}
+      \field{year}{2015}
+      \field{pages}{915\bibrangedash 926}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/s00265-015-1903-3
+      \endverb
+    \endentry
+    \entry{paskze_pytorch_2019}{article}{}
+      \name{author}{7}{}{%
+        {{hash=775d4b1a77d37afc00ac789f6aa96d28}{%
+           family={Paskze},
+           familyi={P\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4ba5062e5919c814aceec188d54c01f2}{%
+           family={Gross},
+           familyi={G\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e5dfae4582081d649e3a0d5342050016}{%
+           family={Massa},
+           familyi={M\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b5815e1692fa2d0c1f44eecf509bd7c4}{%
+           family={Lerer},
+           familyi={L\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b75383e6b48c8360c7a60031424c85cf}{%
+           family={Bradbury},
+           familyi={B\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f897ed422c34d95af2e22778dfc2607e}{%
+           family={Chanan},
+           familyi={C\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod}}}%
+        {{hash=74598d6f343d9f0ab96533e9bb304c99}{%
+           family={Killen},
+           familyi={K\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{9160809fc276a831ecb6970c375ef3bc}
+      \strng{fullhash}{50d3f8e3b49f429bde3f2a7a6ba2064a}
+      \strng{bibnamehash}{9160809fc276a831ecb6970c375ef3bc}
+      \strng{authorbibnamehash}{9160809fc276a831ecb6970c375ef3bc}
+      \strng{authornamehash}{9160809fc276a831ecb6970c375ef3bc}
+      \strng{authorfullhash}{50d3f8e3b49f429bde3f2a7a6ba2064a}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arxiv}
+      \field{journaltitle}{arXiv preprint arXiv:1912.01703}
+      \field{title}{{{PyTorch}}: {{An Imperative Style}}, {{High}}-{{Performance Deep Learning Library}}}
+      \field{year}{2019}
+      \verb{eprint}
+      \verb 1912.01703
+      \endverb
+      \keyw{autograd,deep-learning,gpu,machine-learning,neural-network,numpy,python,tensor}
+    \endentry
+    \entry{peng_deep_2019}{article}{}
+      \name{author}{11}{}{%
+        {{hash=4db23406a859ac547a285d171eb8005e}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={Chengbin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1476dca9dd5fc37ac092b2e95194c5b8}{%
+           family={Duarte},
+           familyi={D\bibinitperiod},
+           given={Carlos\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=44d4114390dfab84b1ab8f4e516f3e23}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={Daniel\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8b14bf810bd1fcc06e822cd4afda3b20}{%
+           family={Guinet},
+           familyi={G\bibinitperiod},
+           given={Christophe},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6e1678a0aad96eabfdd005f35e0b213f}{%
+           family={Harcourt},
+           familyi={H\bibinitperiod},
+           given={Robert\bibnamedelima G.},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=2fdf01aada14b14c45925b71bf622e74}{%
+           family={Hindell},
+           familyi={H\bibinitperiod},
+           given={Mark\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f24f4febae187c3329944ed161eea263}{%
+           family={McMahon},
+           familyi={M\bibinitperiod},
+           given={Clive\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=00995adc83815b63b5206de0785d0ebb}{%
+           family={Muelbert},
+           familyi={M\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod}}}%
+        {{hash=72622f34c08974feb60647cdeb888f9d}{%
+           family={Thums},
+           familyi={T\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e9771b8d6efcd82030b5df1300d7a517}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Ka-Chun},
+           giveni={K\bibinithyphendelim C\bibinitperiod}}}%
+        {{hash=78602a740c55ebc62bc5530e131d12d1}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiangliang},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{dcad18ed71978d8dbb07388da2550622}
+      \strng{fullhash}{e4ea6910aef893e252913fee12063644}
+      \strng{bibnamehash}{dcad18ed71978d8dbb07388da2550622}
+      \strng{authorbibnamehash}{dcad18ed71978d8dbb07388da2550622}
+      \strng{authornamehash}{dcad18ed71978d8dbb07388da2550622}
+      \strng{authorfullhash}{e4ea6910aef893e252913fee12063644}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{14}
+      \field{title}{Deep {{Learning Resolves Representative Movement Patterns}} in a {{Marine Predator Species}}}
+      \field{volume}{9}
+      \field{year}{2019}
+      \field{pages}{2935}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app9142935
+      \endverb
+    \endentry
+    \entry{pinaud_at-sea_2007}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6a7a6691c9c64c52cee00181609d2d8a}{%
+           family={Pinaud},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4accace2a6551e58c038c2c03e362933}{%
+           family={Weimerskirch},
+           familyi={W\bibinitperiod},
+           given={Henri},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{2963cb47aee26170ad4dc38fe17261a3}
+      \strng{fullhash}{2963cb47aee26170ad4dc38fe17261a3}
+      \strng{bibnamehash}{2963cb47aee26170ad4dc38fe17261a3}
+      \strng{authorbibnamehash}{2963cb47aee26170ad4dc38fe17261a3}
+      \strng{authornamehash}{2963cb47aee26170ad4dc38fe17261a3}
+      \strng{authorfullhash}{2963cb47aee26170ad4dc38fe17261a3}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0021-8790, 1365-2656}
+      \field{journaltitle}{Journal of Animal Ecology}
+      \field{number}{1}
+      \field{shorttitle}{At-Sea Distribution and Scale-Dependent Foraging Behaviour of Petrels and Albatrosses}
+      \field{title}{At-Sea Distribution and Scale-Dependent Foraging Behaviour of Petrels and Albatrosses: A Comparative Study}
+      \field{volume}{76}
+      \field{year}{2007}
+      \field{pages}{9\bibrangedash 19}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1111/j.1365-2656.2006.01186.x
+      \endverb
+    \endentry
+    \entry{rew_animal_2019}{article}{}
+      \name{author}{5}{}{%
+        {{hash=8926130a22687172caf1181affdc6387}{%
+           family={Rew},
+           familyi={R\bibinitperiod},
+           given={Jehyeok},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0e510d1e7ae921f6995172b72bea6616}{%
+           family={Park},
+           familyi={P\bibinitperiod},
+           given={Sungwoo},
+           giveni={S\bibinitperiod}}}%
+        {{hash=953cd9b536598a2522220a22fed151de}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={Yongjang},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=1173fa6e2c2718ec3da01f1ff878dac4}{%
+           family={Jung},
+           familyi={J\bibinitperiod},
+           given={Seungwon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8cb2346989ff689bddf5db9d198ce4ea}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={Eenjun},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{96f1da978bbc6f2b2c80ee2851796ad8}
+      \strng{fullhash}{dbdfecda7f4d9852b22993f22070000a}
+      \strng{bibnamehash}{96f1da978bbc6f2b2c80ee2851796ad8}
+      \strng{authorbibnamehash}{96f1da978bbc6f2b2c80ee2851796ad8}
+      \strng{authornamehash}{96f1da978bbc6f2b2c80ee2851796ad8}
+      \strng{authorfullhash}{dbdfecda7f4d9852b22993f22070000a}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{number}{20}
+      \field{title}{Animal {{Movement Prediction Based}} on {{Predictive Recurrent Neural Network}}}
+      \field{volume}{19}
+      \field{year}{2019}
+      \field{pages}{4411}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/s19204411
+      \endverb
+    \endentry
+    \entry{ronneberger_u-net_2015}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=8e46da9de9e53ea5d37089897d69cdd9}{%
+           family={Ronneberger},
+           familyi={R\bibinitperiod},
+           given={Olaf},
+           giveni={O\bibinitperiod}}}%
+        {{hash=168e84ce3582cbc6bac5e2ebc3ef8442}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b452a32296958371572717940f900884}{%
+           family={Brox},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{fullhash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{bibnamehash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{authorbibnamehash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{authornamehash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{authorfullhash}{f23ccc5160c62c7866172335b2c76e11}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{booktitle}{International {{Conference}} on {{Medical}} Image Computing and Computer-Assisted Intervention}
+      \field{eprinttype}{arxiv}
+      \field{shorttitle}{U-{{Net}}}
+      \field{title}{U-{{Net}}: {{Convolutional Networks}} for {{Biomedical Image Segmentation}}}
+      \field{year}{2015}
+      \field{pages}{234\bibrangedash 241}
+      \range{pages}{8}
+      \verb{eprint}
+      \verb 1505.04597
+      \endverb
+      \keyw{⛔ No DOI found,Computer Science - Computer Vision and Pattern Recognition}
+    \endentry
+    \entry{ropert-coudert_diving_2009}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6e36ad2a61b041369ba18bba82eab912}{%
+           family={{Ropert-Coudert}},
+           familyi={R\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=cc20fc9a0a9046c5e05d92b94acf2c52}{%
+           family={Beaulieu},
+           familyi={B\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=658aec87c47d3839e7d35a4854b30a86}{%
+           family={Hanuise},
+           familyi={H\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=325bedd61871e82af371cac604df1402}{%
+           family={Kato},
+           familyi={K\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{29c0b404bc0f0a70a183e0445966dc5a}
+      \strng{fullhash}{9f3681db0c3f1e64cfb6da0de5727de3}
+      \strng{bibnamehash}{29c0b404bc0f0a70a183e0445966dc5a}
+      \strng{authorbibnamehash}{29c0b404bc0f0a70a183e0445966dc5a}
+      \strng{authornamehash}{29c0b404bc0f0a70a183e0445966dc5a}
+      \strng{authorfullhash}{9f3681db0c3f1e64cfb6da0de5727de3}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1863-5407, 1613-4796}
+      \field{journaltitle}{Endangered Species Research}
+      \field{title}{Diving into the World of Biologging}
+      \field{volume}{10}
+      \field{year}{2009}
+      \field{pages}{21\bibrangedash 27}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.3354/esr00188
+      \endverb
+    \endentry
+    \entry{schreiber_biology_2001}{book}{}
+      \name{editor}{2}{}{%
+        {{hash=86310adb549ec849ba10b89fc8a3c306}{%
+           family={Schreiber},
+           familyi={S\bibinitperiod},
+           given={Elizabeth\bibnamedelima Anne},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2471ad4a4cf2a3a76b0cbfde9a1e03ca}{%
+           family={Burger},
+           familyi={B\bibinitperiod},
+           given={Joanna},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hoboken, USA}%
+      }
+      \list{publisher}{1}{%
+        {CRC press}%
+      }
+      \strng{namehash}{6e39a5cb9379f6aed2dd4621b0157bad}
+      \strng{fullhash}{6e39a5cb9379f6aed2dd4621b0157bad}
+      \strng{bibnamehash}{6e39a5cb9379f6aed2dd4621b0157bad}
+      \strng{editorbibnamehash}{6e39a5cb9379f6aed2dd4621b0157bad}
+      \strng{editornamehash}{6e39a5cb9379f6aed2dd4621b0157bad}
+      \strng{editorfullhash}{6e39a5cb9379f6aed2dd4621b0157bad}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Biology of Marine Birds}
+      \field{year}{2001}
+    \endentry
+    \entry{seidel_ecological_2018}{article}{}
+      \name{author}{4}{}{%
+        {{hash=13c79784f4bd9ce9ca016c501f0d0d43}{%
+           family={Seidel},
+           familyi={S\bibinitperiod},
+           given={Dana\bibnamedelima Paige},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=ef0385ab95a3130fdf5d0ea1a7140a5d}{%
+           family={Dougherty},
+           familyi={D\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=8e46c9fa15ddbbc924804b32deaff05c}{%
+           family={Carlson},
+           familyi={C\bibinitperiod},
+           given={Colin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b0b4a0a0f8f0708889152a4a63262b47}{%
+           family={Getz},
+           familyi={G\bibinitperiod},
+           given={Wayne\bibnamedelima M.},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{4440b4bc34887b65307a9ea88b2316be}
+      \strng{fullhash}{5d1cb5eab38819d13c58b1831d2fdf2d}
+      \strng{bibnamehash}{4440b4bc34887b65307a9ea88b2316be}
+      \strng{authorbibnamehash}{4440b4bc34887b65307a9ea88b2316be}
+      \strng{authornamehash}{4440b4bc34887b65307a9ea88b2316be}
+      \strng{authorfullhash}{5d1cb5eab38819d13c58b1831d2fdf2d}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1365-8816, 1362-3087}
+      \field{journaltitle}{International Journal of Geographical Information Science}
+      \field{number}{11}
+      \field{title}{Ecological Metrics and Methods for {{GPS}} Movement Data}
+      \field{volume}{32}
+      \field{year}{2018}
+      \field{pages}{2272\bibrangedash 2293}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1080/13658816.2018.1498097
+      \endverb
+    \endentry
+    \entry{senior_improved_2020}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f1a3e946248ed1a379fa9bed17045fcf}{%
+           family={Senior},
+           familyi={S\bibinitperiod},
+           given={Andrew\bibnamedelima W},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{f1a3e946248ed1a379fa9bed17045fcf}
+      \strng{fullhash}{f1a3e946248ed1a379fa9bed17045fcf}
+      \strng{bibnamehash}{f1a3e946248ed1a379fa9bed17045fcf}
+      \strng{authorbibnamehash}{f1a3e946248ed1a379fa9bed17045fcf}
+      \strng{authornamehash}{f1a3e946248ed1a379fa9bed17045fcf}
+      \strng{authorfullhash}{f1a3e946248ed1a379fa9bed17045fcf}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{title}{Improved Protein Structure Prediction Using Potentials from Deep Learning}
+      \field{volume}{577}
+      \field{year}{2020}
+      \field{pages}{706\bibrangedash 710}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/s41586-019-1923-7
+      \endverb
+    \endentry
+    \entry{shoji_foraging_2015}{article}{}
+      \name{author}{6}{}{%
+        {{hash=7c6348c896a1befcd2bebf41ff4ba9f8}{%
+           family={Shoji},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c410359b3fed39afe6613e354d52d153}{%
+           family={Elliott},
+           familyi={E\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=83159e0c3ae7977b040b663164a0f339}{%
+           family={Fayet},
+           familyi={F\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1dfaa2f93108182d3ed75affcdedd336}{%
+           family={Boyle},
+           familyi={B\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c3871c22cfa942f33c30145e61939752}{%
+           family={Perrins},
+           familyi={P\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f381cf5db02e6644abc2bc77e06db5dc}{%
+           family={Guilford},
+           familyi={G\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae4bc717388dd51d42990fa4298aa0ea}
+      \strng{fullhash}{7ce9804b39cc5bdd2edb10df4001a676}
+      \strng{bibnamehash}{ae4bc717388dd51d42990fa4298aa0ea}
+      \strng{authorbibnamehash}{ae4bc717388dd51d42990fa4298aa0ea}
+      \strng{authornamehash}{ae4bc717388dd51d42990fa4298aa0ea}
+      \strng{authorfullhash}{7ce9804b39cc5bdd2edb10df4001a676}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0171-8630, 1616-1599}
+      \field{journaltitle}{Marine Ecology Progress Series}
+      \field{title}{Foraging Behaviour of Sympatric Razorbills and Puffins}
+      \field{volume}{520}
+      \field{year}{2015}
+      \field{pages}{257\bibrangedash 267}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.3354/meps11080
+      \endverb
+    \endentry
+    \entry{sommerfeld_foraging_2013}{article}{}
+      \name{author}{5}{}{%
+        {{hash=758686780a9b7d29d7b2001268fc2a00}{%
+           family={Sommerfeld},
+           familyi={S\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d81714b84067b4f7b7aeae46767986f7}{%
+           family={Kato},
+           familyi={K\bibinitperiod},
+           given={Akiko},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4b3bc3c0093564e3e1f36e5c8eeb3ae1}{%
+           family={{Ropert-Coudert}},
+           familyi={R\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=19a9079218ec7e2fc8275ab448230e61}{%
+           family={Garthe},
+           familyi={G\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2fdf01aada14b14c45925b71bf622e74}{%
+           family={Hindell},
+           familyi={H\bibinitperiod},
+           given={Mark\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=88536998b48a33c848862064aff2aa51}{%
+           family={Sorci},
+           familyi={S\bibinitperiod},
+           given={Gabriele},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b531c7e8347569f093e052a6bde880a}
+      \strng{fullhash}{4d5f326b2af481a41e044f409d590eca}
+      \strng{bibnamehash}{9b531c7e8347569f093e052a6bde880a}
+      \strng{authorbibnamehash}{9b531c7e8347569f093e052a6bde880a}
+      \strng{authornamehash}{9b531c7e8347569f093e052a6bde880a}
+      \strng{authorfullhash}{4d5f326b2af481a41e044f409d590eca}
+      \strng{editorbibnamehash}{88536998b48a33c848862064aff2aa51}
+      \strng{editornamehash}{88536998b48a33c848862064aff2aa51}
+      \strng{editorfullhash}{88536998b48a33c848862064aff2aa51}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{PLoS ONE}
+      \field{number}{5}
+      \field{shorttitle}{Foraging {{Parameters Influencing}} the {{Detection}} and {{Interpretation}} of {{Area}}-{{Restricted Search Behaviour}} in {{Marine Predators}}}
+      \field{title}{Foraging {{Parameters Influencing}} the {{Detection}} and {{Interpretation}} of {{Area}}-{{Restricted Search Behaviour}} in {{Marine Predators}}: {{A Case Study}} with the {{Masked Booby}}}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{pages}{e63742}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0063742
+      \endverb
+    \endentry
+    \entry{monaco_bio-logging_2016}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=a7c8fb4f6853df132e26b4d35bae9aa7}{%
+           family={Tremblay},
+           familyi={T\bibinitperiod},
+           given={Yann},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=18e5c73706f14dc9ae7337de38d283e5}{%
+           family={Bertrand},
+           familyi={B\bibinitperiod},
+           given={Sophie},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=2971ee884e35b8ce5e8c94639879d890}{%
+           family={Monaco},
+           familyi={M\bibinitperiod},
+           given={Andr{é}},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ad85ce237b16ad0a655b684de01ad0b5}{%
+           family={Prouzet},
+           familyi={P\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Hoboken, NJ, USA}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons, Inc.}%
+      }
+      \strng{namehash}{f3277374c52326b2bf74331207094371}
+      \strng{fullhash}{f3277374c52326b2bf74331207094371}
+      \strng{bibnamehash}{f3277374c52326b2bf74331207094371}
+      \strng{authorbibnamehash}{f3277374c52326b2bf74331207094371}
+      \strng{authornamehash}{f3277374c52326b2bf74331207094371}
+      \strng{authorfullhash}{f3277374c52326b2bf74331207094371}
+      \strng{editorbibnamehash}{880feb182c0e9ebf229696de15e5571c}
+      \strng{editornamehash}{880feb182c0e9ebf229696de15e5571c}
+      \strng{editorfullhash}{880feb182c0e9ebf229696de15e5571c}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Tools for {{Oceanography}} and {{Ecosystemic Modeling}}}
+      \field{isbn}{978-1-119-33022-6 978-1-84821-778-2}
+      \field{title}{``{{Bio}}-Logging'' as a {{Tool}} to {{Study}} and {{Monitor Marine Ecosystems}}, or {{How}} to {{Spy}} on {{Sea Creatures}}}
+      \field{year}{2016}
+      \field{pages}{143\bibrangedash 173}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1002/9781119330226.ch5
+      \endverb
+    \endentry
+    \entry{valletta_applications_2017}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6ca14e6aaa0f5f2cd58ed16b82174c64}{%
+           family={Valletta},
+           familyi={V\bibinitperiod},
+           given={John\bibnamedelima Joseph},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a92ae6fff9bf7d5583ab7451703d0580}{%
+           family={Torney},
+           familyi={T\bibinitperiod},
+           given={Colin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=a29b262387368f6632f3167a25e2a705}{%
+           family={Kings},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8f6d885d4e85eff20e7c70cecbd1d6eb}{%
+           family={Thornton},
+           familyi={T\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=297489eb408d19708cc018969f1440f0}{%
+           family={Madden},
+           familyi={M\bibinitperiod},
+           given={Joah},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{4a398bcb8c213feec93419b5f1849dbc}
+      \strng{fullhash}{aec9894560b80d4d795182124e5182eb}
+      \strng{bibnamehash}{4a398bcb8c213feec93419b5f1849dbc}
+      \strng{authorbibnamehash}{4a398bcb8c213feec93419b5f1849dbc}
+      \strng{authornamehash}{4a398bcb8c213feec93419b5f1849dbc}
+      \strng{authorfullhash}{aec9894560b80d4d795182124e5182eb}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Animal Behaviour}
+      \field{title}{Applications of Machine Learning in Animal Behaviour Studies}
+      \field{volume}{124}
+      \field{year}{2017}
+      \field{pages}{203\bibrangedash 220}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.anbehav.2016.12.005
+      \endverb
+    \endentry
+    \entry{wakefield_quantifying_2009}{article}{}
+      \name{author}{3}{}{%
+        {{hash=fb0020bdd5df81b2ead98b38abeb5cd4}{%
+           family={Wakefield},
+           familyi={W\bibinitperiod},
+           given={Ed},
+           giveni={E\bibinitperiod}}}%
+        {{hash=35a7a1adc0ba76cd6e0c42e1726f40fb}{%
+           family={Phillips},
+           familyi={P\bibinitperiod},
+           given={Ra},
+           giveni={R\bibinitperiod}}}%
+        {{hash=23b017882432bc9cccbe798df0ec3e38}{%
+           family={Matthiopoulos},
+           familyi={M\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{2bcfe5f0264d854fa8ac0ca3dac00e62}
+      \strng{fullhash}{2bcfe5f0264d854fa8ac0ca3dac00e62}
+      \strng{bibnamehash}{2bcfe5f0264d854fa8ac0ca3dac00e62}
+      \strng{authorbibnamehash}{2bcfe5f0264d854fa8ac0ca3dac00e62}
+      \strng{authornamehash}{2bcfe5f0264d854fa8ac0ca3dac00e62}
+      \strng{authorfullhash}{2bcfe5f0264d854fa8ac0ca3dac00e62}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0171-8630, 1616-1599}
+      \field{journaltitle}{Marine Ecology Progress Series}
+      \field{shorttitle}{Quantifying Habitat Use and Preferences of Pelagic Seabirds Using Individual Movement Data}
+      \field{title}{Quantifying Habitat Use and Preferences of Pelagic Seabirds Using Individual Movement Data: A Review}
+      \field{volume}{391}
+      \field{year}{2009}
+      \field{pages}{165\bibrangedash 182}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.3354/meps08203
+      \endverb
+    \endentry
+    \entry{wang_machine_2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=45d5c77478012f5dfafdf972a6110e5a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Guiming},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{45d5c77478012f5dfafdf972a6110e5a}
+      \strng{fullhash}{45d5c77478012f5dfafdf972a6110e5a}
+      \strng{bibnamehash}{45d5c77478012f5dfafdf972a6110e5a}
+      \strng{authorbibnamehash}{45d5c77478012f5dfafdf972a6110e5a}
+      \strng{authornamehash}{45d5c77478012f5dfafdf972a6110e5a}
+      \strng{authorfullhash}{45d5c77478012f5dfafdf972a6110e5a}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ecological Informatics}
+      \field{title}{Machine Learning for Inferring Animal Behavior from Location and Movement Data}
+      \field{volume}{49}
+      \field{year}{2019}
+      \field{pages}{69\bibrangedash 76}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.ecoinf.2018.12.002
+      \endverb
+    \endentry
+    \entry{weimerskirch_foraging_2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=29794b22d14e576a49818aac75189fd4}{%
+           family={Weimerskirch},
+           familyi={W\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a45b6854d5184dd701dfd749abc731e0}{%
+           family={Le\bibnamedelima Corre},
+           familyi={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7d249ddb67010ed69cd43af3be6f27a3}{%
+           family={Bost},
+           familyi={B\bibinitperiod},
+           given={Ca},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{fce8e59352edb64096c0d71fec31bc2e}
+      \strng{fullhash}{fce8e59352edb64096c0d71fec31bc2e}
+      \strng{bibnamehash}{fce8e59352edb64096c0d71fec31bc2e}
+      \strng{authorbibnamehash}{fce8e59352edb64096c0d71fec31bc2e}
+      \strng{authornamehash}{fce8e59352edb64096c0d71fec31bc2e}
+      \strng{authorfullhash}{fce8e59352edb64096c0d71fec31bc2e}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0171-8630, 1616-1599}
+      \field{journaltitle}{Marine Ecology Progress Series}
+      \field{shorttitle}{Foraging Strategy of Masked Boobies from the Largest Colony in the World}
+      \field{title}{Foraging Strategy of Masked Boobies from the Largest Colony in the World: Relationship to Environmental Conditions and Fisheries}
+      \field{volume}{362}
+      \field{year}{2008}
+      \field{pages}{291\bibrangedash 302}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.3354/meps07424
+      \endverb
+    \endentry
+    \entry{weimerskirch_are_2007}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4accace2a6551e58c038c2c03e362933}{%
+           family={Weimerskirch},
+           familyi={W\bibinitperiod},
+           given={Henri},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{4accace2a6551e58c038c2c03e362933}
+      \strng{fullhash}{4accace2a6551e58c038c2c03e362933}
+      \strng{bibnamehash}{4accace2a6551e58c038c2c03e362933}
+      \strng{authorbibnamehash}{4accace2a6551e58c038c2c03e362933}
+      \strng{authornamehash}{4accace2a6551e58c038c2c03e362933}
+      \strng{authorfullhash}{4accace2a6551e58c038c2c03e362933}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09670645}
+      \field{journaltitle}{Deep Sea Research Part II: Topical Studies in Oceanography}
+      \field{number}{3-4}
+      \field{title}{Are Seabirds Foraging for Unpredictable Resources?}
+      \field{volume}{54}
+      \field{year}{2007}
+      \field{pages}{211\bibrangedash 223}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.dsr2.2006.11.013
+      \endverb
+    \endentry
+    \entry{weimerskirch_at-sea_2020}{article}{}
+      \name{author}{15}{}{%
+        {{hash=29794b22d14e576a49818aac75189fd4}{%
+           family={Weimerskirch},
+           familyi={W\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=98b172eac555860c3f0d8dae8df7ec49}{%
+           family={{de Grissac}},
+           familyi={d\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c2879b14d280a78cf6bc674c9b90a2dc}{%
+           family={Ravache},
+           familyi={R\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5ee87dcfb71671f217ac1aff394f96ab}{%
+           family={Prudor},
+           familyi={P\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0ad7ae73c202ccdf690a70602189d908}{%
+           family={Corbeau},
+           familyi={C\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=67498891333dbd11b23d99bc755b8613}{%
+           family={Congdon},
+           familyi={C\bibinitperiod},
+           given={Bc},
+           giveni={B\bibinitperiod}}}%
+        {{hash=faa706db9e1d2e3646abeccca962c3da}{%
+           family={McDuie},
+           familyi={M\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=098427e6a3db3ef554092fb724616387}{%
+           family={Bourgeois},
+           familyi={B\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d2019922df6f3b8edc00b3c808e4f698}{%
+           family={Dromz{é}e},
+           familyi={D\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c318a71684d11ac59468a49001b72bde}{%
+           family={Butscher},
+           familyi={B\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0b652c05d2a496b2a5df9a1ae4471229}{%
+           family={Menkes},
+           familyi={M\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=8ae511c325d4a4eb2e295e4a1199aa4a}{%
+           family={Allain},
+           familyi={A\bibinitperiod},
+           given={V},
+           giveni={V\bibinitperiod}}}%
+        {{hash=99eee9aebb9593fa007ae2b435e212f9}{%
+           family={Vidal},
+           familyi={V\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7fcd11244fb615f361f8c8bd515c4138}{%
+           family={Jaeger},
+           familyi={J\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4b47a6894c3997b83e2d720ded872030}{%
+           family={Borsa},
+           familyi={B\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{41802bfd65c0c6bce9dac975767e91a0}
+      \strng{fullhash}{cc4ab5d56bcb35ca2a40c78a6d34a84d}
+      \strng{bibnamehash}{41802bfd65c0c6bce9dac975767e91a0}
+      \strng{authorbibnamehash}{41802bfd65c0c6bce9dac975767e91a0}
+      \strng{authornamehash}{41802bfd65c0c6bce9dac975767e91a0}
+      \strng{authorfullhash}{cc4ab5d56bcb35ca2a40c78a6d34a84d}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0171-8630, 1616-1599}
+      \field{journaltitle}{Marine Ecology Progress Series}
+      \field{title}{At-Sea Movements of Wedge-Tailed Shearwaters during and Outside the Breeding Season from Four Colonies in {{New Caledonia}}}
+      \field{volume}{633}
+      \field{year}{2020}
+      \field{pages}{225\bibrangedash 238}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.3354/meps13171
+      \endverb
+    \endentry
+    \entry{weimerskirch_foraging_2012}{article}{}
+      \name{author}{5}{}{%
+        {{hash=29794b22d14e576a49818aac75189fd4}{%
+           family={Weimerskirch},
+           familyi={W\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=eee6a90d48d926d122a5ef45d001e099}{%
+           family={Bertrand},
+           familyi={B\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7689e1f35a4427c09ae11d45d598c583}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3ee68beedc2b6ee08c7ac4988c399f80}{%
+           family={Bost},
+           familyi={B\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+        {{hash=335c5a830b7af117ac7bc662ddf44a74}{%
+           family={Peraltilla},
+           familyi={P\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{41802bfd65c0c6bce9dac975767e91a0}
+      \strng{fullhash}{f9b7e0217eec30b51108a237aa399974}
+      \strng{bibnamehash}{41802bfd65c0c6bce9dac975767e91a0}
+      \strng{authorbibnamehash}{41802bfd65c0c6bce9dac975767e91a0}
+      \strng{authornamehash}{41802bfd65c0c6bce9dac975767e91a0}
+      \strng{authorfullhash}{f9b7e0217eec30b51108a237aa399974}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0171-8630, 1616-1599}
+      \field{journaltitle}{Marine Ecology Progress Series}
+      \field{title}{Foraging in {{Guanay}} Cormorant and {{Peruvian}} Booby, the Major Guano-Producing Seabirds in the {{Humboldt Current System}}}
+      \field{volume}{458}
+      \field{year}{2012}
+      \field{pages}{231\bibrangedash 245}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10/f34jq3
+      \endverb
+    \endentry
+    \entry{weinstein_computer_2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=48ca0387fb72fe2d575a5924c127c0e6}{%
+           family={Weinstein},
+           familyi={W\bibinitperiod},
+           given={Ben\bibnamedelima G.},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c08343cea4d10076d57aec672ce83728}{%
+           family={Prugh},
+           familyi={P\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{48ca0387fb72fe2d575a5924c127c0e6}
+      \strng{fullhash}{48ca0387fb72fe2d575a5924c127c0e6}
+      \strng{bibnamehash}{48ca0387fb72fe2d575a5924c127c0e6}
+      \strng{authorbibnamehash}{48ca0387fb72fe2d575a5924c127c0e6}
+      \strng{authornamehash}{48ca0387fb72fe2d575a5924c127c0e6}
+      \strng{authorfullhash}{48ca0387fb72fe2d575a5924c127c0e6}
+      \strng{editorbibnamehash}{c08343cea4d10076d57aec672ce83728}
+      \strng{editornamehash}{c08343cea4d10076d57aec672ce83728}
+      \strng{editorfullhash}{c08343cea4d10076d57aec672ce83728}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Animal Ecology}
+      \field{number}{3}
+      \field{title}{A Computer Vision for Animal Ecology}
+      \field{volume}{87}
+      \field{year}{2018}
+      \field{pages}{533\bibrangedash 545}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1111/1365-2656.12780
+      \endverb
+    \endentry
+    \entry{wilson_distancebased_2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=84c35c84584b7044be32f63c2c3fbe70}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Peter\bibnamedelima D},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{84c35c84584b7044be32f63c2c3fbe70}
+      \strng{fullhash}{84c35c84584b7044be32f63c2c3fbe70}
+      \strng{bibnamehash}{84c35c84584b7044be32f63c2c3fbe70}
+      \strng{authorbibnamehash}{84c35c84584b7044be32f63c2c3fbe70}
+      \strng{authornamehash}{84c35c84584b7044be32f63c2c3fbe70}
+      \strng{authorfullhash}{84c35c84584b7044be32f63c2c3fbe70}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Methods in Ecology and Evolution}
+      \field{title}{Distance-based Methods for the Analysis of Maps Produced by Species Distribution Models}
+      \field{year}{2011}
+      \field{pages}{11}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10/b3bnhq
+      \endverb
+    \endentry
+    \entry{wilson_technological_2012}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4a2efee93b1d7843afd45fd3bdd3bb89}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Rory\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=edd19bc12de45ed014145da3a4e90d8c}{%
+           family={Vandenabeele},
+           familyi={V\bibinitperiod},
+           given={Sylvie\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{efad4babae6d3db0af7045ca1928231e}
+      \strng{fullhash}{efad4babae6d3db0af7045ca1928231e}
+      \strng{bibnamehash}{efad4babae6d3db0af7045ca1928231e}
+      \strng{authorbibnamehash}{efad4babae6d3db0af7045ca1928231e}
+      \strng{authornamehash}{efad4babae6d3db0af7045ca1928231e}
+      \strng{authorfullhash}{efad4babae6d3db0af7045ca1928231e}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Marine Ecology Progress Series}
+      \field{title}{Technological Innovation in Archival Tags Used in Seabird Research}
+      \field{year}{2012}
+      \field{pages}{18}
+      \range{pages}{1}
+    \endentry
+    \entry{xu_analysis_2019}{article}{}
+      \name{author}{2}{}{%
+        {{hash=716306a09f303b9d16a4e7585e74f403}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jinbo},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6bf0d8a8573aa1ba9713d0e20811cdb7}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Sheng},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{de56ed12f802b94bd082f7d84c06b2d2}
+      \strng{fullhash}{de56ed12f802b94bd082f7d84c06b2d2}
+      \strng{bibnamehash}{de56ed12f802b94bd082f7d84c06b2d2}
+      \strng{authorbibnamehash}{de56ed12f802b94bd082f7d84c06b2d2}
+      \strng{authornamehash}{de56ed12f802b94bd082f7d84c06b2d2}
+      \strng{authorfullhash}{de56ed12f802b94bd082f7d84c06b2d2}
+      \field{sortinit}{X}
+      \field{sortinithash}{b0b62a29ee4a21a0e618fed53a0313cc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0887-3585, 1097-0134}
+      \field{journaltitle}{Proteins: Structure, Function, and Bioinformatics}
+      \field{number}{12}
+      \field{title}{Analysis of Distance-based Protein Structure Prediction by Deep Learning in {{CASP13}}}
+      \field{volume}{87}
+      \field{year}{2019}
+      \field{pages}{1069\bibrangedash 1081}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10/gh3mv4
+      \endverb
+    \endentry
+    \entry{yoda_advances_2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=5c5ebf7b4991f3362d1d87e496bf3b1e}{%
+           family={Yoda},
+           familyi={Y\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c5ebf7b4991f3362d1d87e496bf3b1e}
+      \strng{fullhash}{5c5ebf7b4991f3362d1d87e496bf3b1e}
+      \strng{bibnamehash}{5c5ebf7b4991f3362d1d87e496bf3b1e}
+      \strng{authorbibnamehash}{5c5ebf7b4991f3362d1d87e496bf3b1e}
+      \strng{authornamehash}{5c5ebf7b4991f3362d1d87e496bf3b1e}
+      \strng{authorfullhash}{5c5ebf7b4991f3362d1d87e496bf3b1e}
+      \field{sortinit}{Y}
+      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced Robotics}
+      \field{number}{3-4}
+      \field{title}{Advances in Bio-Logging Techniques and Their Application to Study Navigation in Wild Seabirds}
+      \field{volume}{33}
+      \field{year}{2019}
+      \field{pages}{108\bibrangedash 117}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1080/01691864.2018.1553686
+      \endverb
+    \endentry
+    \entry{zhang_understanding_2017}{article}{}
+      \name{author}{5}{}{%
+        {{hash=02582b039d752b000c75f8d7d38a36f4}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Chiyuan},
+           giveni={C\bibinitperiod}}}%
+        {{hash=02404a92b0be3f52ec5ac08e41c13445}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Samy},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e771760b6d0d33f8b4dfd907d8d57ac2}{%
+           family={Hardt},
+           familyi={H\bibinitperiod},
+           given={Moritz},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3503059e1c0c778913607c87d8c5173a}{%
+           family={Recht},
+           familyi={R\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=494b568c5dc85ba8f3f409635f9c5f25}{%
+           family={Vinyals},
+           familyi={V\bibinitperiod},
+           given={Oriol},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{aefa5e3824e928a3f030ca71f5599336}
+      \strng{fullhash}{5f9fd616ce70a721a8ba93854c0c517e}
+      \strng{bibnamehash}{aefa5e3824e928a3f030ca71f5599336}
+      \strng{authorbibnamehash}{aefa5e3824e928a3f030ca71f5599336}
+      \strng{authornamehash}{aefa5e3824e928a3f030ca71f5599336}
+      \strng{authorfullhash}{5f9fd616ce70a721a8ba93854c0c517e}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs}
+      \field{eprinttype}{arxiv}
+      \field{journaltitle}{arXiv:1611.03530 [cs]}
+      \field{title}{Understanding Deep Learning Requires Rethinking Generalization}
+      \field{year}{2017}
+      \verb{eprint}
+      \verb 1611.03530
+      \endverb
+      \keyw{⛔ No DOI found,Computer Science - Machine Learning}
+    \endentry
+    \entry{zhang_gps_2019}{article}{}
+      \name{author}{7}{}{%
+        {{hash=2416ec1550bcffcf5b005089858dc2b7}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jingjing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1c1c609afcac770455e69ce1918cda23}{%
+           family={Rayner},
+           familyi={R\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8347ec33c3783f1a4d9ebc3cf40aa14e}{%
+           family={Vickers},
+           familyi={V\bibinitperiod},
+           given={Shae},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a52211796ff36cdfa3d3eb31c59b3d86}{%
+           family={Landers},
+           familyi={L\bibinitperiod},
+           given={Todd},
+           giveni={T\bibinitperiod}}}%
+        {{hash=354971cdb04ccd040ae9ed25d7ab5b01}{%
+           family={Sagar},
+           familyi={S\bibinitperiod},
+           given={Rachael},
+           giveni={R\bibinitperiod}}}%
+        {{hash=06481d739d2a074fb79ecaf3b27033c1}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=cdc0debbb9c58d89089e8c91ab663146}{%
+           family={Dunphy},
+           familyi={D\bibinitperiod},
+           given={Brendon},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{744479bcfa1977acb7f817672d5becb5}
+      \strng{fullhash}{9507da4134b2a5663c5b7e3ea8643eef}
+      \strng{bibnamehash}{744479bcfa1977acb7f817672d5becb5}
+      \strng{authorbibnamehash}{744479bcfa1977acb7f817672d5becb5}
+      \strng{authornamehash}{744479bcfa1977acb7f817672d5becb5}
+      \strng{authorfullhash}{9507da4134b2a5663c5b7e3ea8643eef}
+      \field{sortinit}{Z}
+      \field{sortinithash}{156173bd08b075d7295bc3e0f4735a04}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0158-4197, 1448-5540}
+      \field{journaltitle}{Emu - Austral Ornithology}
+      \field{number}{2}
+      \field{shorttitle}{{{GPS}} Telemetry for Small Seabirds}
+      \field{title}{{{GPS}} Telemetry for Small Seabirds: Using Hidden {{Markov}} Models to Infer Foraging Behaviour of {{Common Diving Petrels}} ( {{{\emph{Pelecanoides}}}}{\emph{ Urinatrix Urinatrix}} )}
+      \field{volume}{119}
+      \field{year}{2019}
+      \field{pages}{126\bibrangedash 137}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10/ghtzsr
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

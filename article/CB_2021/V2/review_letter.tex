@@ -1,0 +1,135 @@
+% An example for the ar2rc document class.
+% Copyright (C) 2017 Martin Schroen
+% Modifications Copyright (C) 2020 Kaishuo Zhang
+%
+% This program is free software: you can redistribute it and/or modify
+% it under the terms of the GNU General Public License as published by
+% the Free Software Foundation, either version 3 of the License, or
+% (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+% GNU General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License
+% along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+\documentclass{ar2rc}
+
+
+\title{Deep learning and Trajectory Representation for the Prediction of Seabird Diving Behaviour}
+\author{A. Roy, S. Lanco Bertrand, R. Fablet}
+\journal{PLOS Computational Biology}
+\doi{PCOMPBIOL-D-21-00564}
+
+\begin{document}
+
+\maketitle
+
+\section*{}
+
+Dear editor, dear reviewers,
+
+We would like to thank you for your constuctive comments.
+
+Hereafter you will find detailed response to each comments.
+
+Best regards,
+
+Amédée Roy et al.
+
+\section*{Reviewer \#1}
+
+\subsection*{L. 19 \& 27}
+
+\RC The term “megafauna” is confusing and misused since it is commonly only for large (in size) fauna, such as large herbivores, whales etc. Seabirds are definitely not megafauna. A better term for your study would be top marine predators.
+
+\AR to do
+
+\subsection*{L. 27}
+
+\RC To be good indicators they need to be both sensitive and changing in a predictable manner.
+
+\AR to do
+
+\subsection*{L. 32-34}
+
+\RC I certainly do not agree with the statement of these 2 sentences. At-sea predation do exist and by-catch as well; they are many papers showing how fishing vessels can be tracked by seabirds and also be negatively impacted (by-catch and easy food). In addition, since they are breeding they foraging is done to secure prey for their brood and this is clearly a constraint on their movements; for instance most penguins do long range movements for their chicks and short and local movements at-sea for their own needs. Please correct the parag accordingly.
+
+\AR to do
+
+\subsection*{L. 87}
+
+\RC The authors mentioned that they interpolated missing data. How many were missing? Testing the impact of interpolation on the final analyses is advised.
+
+\AR to do
+
+\subsection*{L.93}
+
+\RC Although the splitting \% is fine and quite standard for deep learning, it does not give much replicates, which is critical for these data hungry approaches. Seventy \% of 234 foraging trips, is 163.8, 20\% is 46.8 and 10\% is 23.4. Since sample size limit is a function of the complexity of your model (and yours is certainly one), it would be appropriate to quantify the performance of your DL algorithm in response to the amount of data (many models with similar complexity require > 1000 of replicates and to me, the foraging trips are the sample size as the location points within them are not independent). Not only this will help show the readers that your approach is robust, but it will serve as a benchmark for others in the future who may have a different number of foraging bouts. Often in ecological studies, researchers do not have the means to equip that number of individuals so this can help having other using your approach in the future with their own (limited) dataset.
+
+\AR to do
+
+\subsection*{Discussion}
+
+\RC A dedicated parag on the ecological aspects of the datasets and the consequences and potential applications for other types of data is warranted.
+
+\AR to do
+
+\subsection*{Editorial issues:}
+
+\RC The numbering of the references is all wrong; they are not cited in order; e.g. you start by citing ref [2] L.20 then ref [20] L.22 etc.
+
+\AR to do
+
+\section*{Reviewer \#2}
+
+
+\RC The input of UNet (Fig.3) is time-series of longitude, latitude, and coverage. However, the longitude and latitude are meaningless to detect diving events. To recognize events of moving objects, speed and bearing (angle) are usually used. I consider that when the authors simply use time-series of speed, bearing, and coverage as the input of UNet, the method can achieve good performance comparable to DME-UNet.
+
+\AR to do
+
+
+\RC I'm also afraid that the contribution of DME is limited because, as shown in the right graph of Fig.3, the performances of DME-UNet and UNet are similar. Can you make this graph using the cormorant data?
+
+\AR to do
+
+\subsection*{1.}
+
+\RC  It is good to investigate the contribution of DME deeply. As mentioned above, please use speed and bearing speed (radian per time unit) as additional inputs of UNet. Please also make a graph like Fig 3 using the other test data sets.
+
+\AR to do
+
+\subsection*{2.}
+
+\RC The authors try to detect diving events using only GPS data (without using water depth sensor and accelerometer). However, the motivation is not described in the introduction section.
+
+\AR to do
+
+\subsection*{3. Line 84}
+
+\RC How to extract foraging trips from GPS records? Please explain.
+
+\AR to do
+
+\subsection*{4. Line 85}
+
+\RC How did you synchronize time stamps of GPS and TDR?
+
+\AR to do
+
+\subsection*{5. Table 1}
+
+\RC Gaps in Table 1 is not explained.
+
+\AR to do
+
+\subsection*{6.}
+
+\RC The authors use AUC to evaluate the methods. However, the goal of the authors is detect diving events. So, it is better to show the classification performance of the proposed method (e.g., F1-score of diving).
+
+\AR to do
+
+
+\end{document}
